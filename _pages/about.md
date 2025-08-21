@@ -198,7 +198,7 @@ Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.0892)
+[EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
 - This letter introduces a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction, named EGGCodec, which proposes a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy.
