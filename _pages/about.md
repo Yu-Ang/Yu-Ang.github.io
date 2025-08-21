@@ -28,10 +28,13 @@ My research interests focus on intelligent communication and multimedia (e.g., I
 I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
 - *Speech Signal-based Diagnosis and Screening for Alzheimer's Disease and Facial Paralysis*.
 - *Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality)*
+- *Deep Learning-based Quantitative Assessment for Language Impairments*
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News 
+- *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
+- *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
+- *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
+
 
 # 📝 Publications 
 
