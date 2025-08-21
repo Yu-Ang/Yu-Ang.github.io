@@ -72,11 +72,30 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2023.05*, ``Robust Wireless VR Video Transmission Based on Overlapped FoVs'', IEEE International Conference on Communications (ICC), Rome, Italy, International Conference Center (Oral).
 
 # 🎈 Services
-Conference Reviewer
+*Memebership*
+- IEEE Graduate Member; IEEE Communications Society Member; IEEE Young Scholar.
 
-Journal Reviewer
+*Conference Reviewer*
+- 2023, 2024 IEEE Global Communications Conference (GLOBECOM).
+- 2023, 2024 IEEE International Conference on Wireless Communications and Signal Processing (WCSP).
+- 2024 IEEE International Conference on Communications (ICC).
+- 2024 IEEE International Conference on Computer Communications (INFOCOM)
 
-# 🀄Publications 
+*Journal Reviewer*
+- IEEE Transactions on Wireless Communications (TWC).
+- IEEE Transactions on Communications (TCOM).
+- IEEE Transactions on Mobile Computing (TMC).
+- IEEE Transactions on Vehicular Technology (TVT).
+- IEEE Transactions on Network and Service Management (TNSM).
+- IEEE Transactions on Cognitive Communications and Networking (TCCN).
+- IEEE Transactions on Green Communications and Networking (TGCN).
+- IEEE Internet of Things Journal (IoTJ).
+- IEEE Wireless Communications Letters.
+- IEEE Communications Letters.
+- IET Communications.
+
+
+# 🀄 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
