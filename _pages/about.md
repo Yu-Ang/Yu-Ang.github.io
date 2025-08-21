@@ -141,7 +141,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/RSMA-Uplink-xURLLC-IIoT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[5] Performance Optimization in RSMA-assisted Uplink xURLLC IIoT Networks with Statistical QoS Provisioning](https://ieeexplore.ieee.org/document/11037391)
@@ -152,7 +152,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/RSMA-Downlink-xURLLC-mMIMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[6] Enhancing xURLLC with RSMA-Assisted Massive-MIMO Networks: Performance Analysis and Optimization](https://doi.org/10.1109/TCOMM.2025.3581971)
@@ -163,7 +163,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/DMSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[7] DMSA: A Decentralized Microservice Architecture for Edge Networks (Accepted)](https://arxiv.org/abs/2501.00883)
@@ -185,7 +185,7 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), and Hancheng Lu.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/FAFC-TNSM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[9] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://arxiv.org)
