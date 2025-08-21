@@ -108,7 +108,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2024</div><img src='images/Uplink-xURLLC-mMIMO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[2] Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/TWC.2023.3347667)
@@ -119,7 +119,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/mmWave-MU-MIMO-360-VR-SQP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[3] Streaming 360-degree VR video with statistical QoS provisioning in mmWave networks from delay and rate perspectives](https://doi.org/10.1109/TWC.2025.3543615)
