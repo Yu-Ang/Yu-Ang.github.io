@@ -109,6 +109,12 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 </div>
 
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,6 +126,13 @@ Chang Wu†, **Yuang Chen†**, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hanc
 - Abrupt resolution changes in virtual reality (VR) streaming can significantly impair the quality-of-experience (QoE)of users, particularly during transitions from high to lowresolutions. Existing QoE models and transmission schemesinadequately address the perceptual impact of these shifts.To bridge this gap, this article proposes, for the first time,an innovative physiological signal-driven QoE modeling andoptimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporaldynamics of physiological responses and resolution changesin VR streaming, enabling accurate quantification of resolution upgrades’ benefits and downgrades’ impacts. Integratedthe proposed QoE framework into the radio access network(RAN) via a deep reinforcement learning (DRL) framework,adaptive transmission strategies have been implemented toallocate radio resources dynamically, which mitigates shortterm channel fluctuations and adjusts frame resolution inresponse to channel variations caused by user mobility. Byprioritizing long-term resolution while minimizing abrupt transitions, the proposed solution achieves an 88.7% improvementin resolution and an 81.0% reduction in handover over thebaseline. Experimental results demonstrate the effectivenessof this physiological signal-driven strategy, underscoring thepromise of edge AI in immersive media services.
 </div>
 </div>
+
+
+
+
+
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -141,10 +154,10 @@ Chang Wu†, **Yuang Chen†**, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hanc
     <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
     <br>
 
-    <!-- Add a button to toggle the abstract visibility -->
-    <button class="toggle-abstract" onclick="toggleAbstract()">Show Abstract</button>
+    <!-- Abstract Title with a clickable link to toggle visibility -->
+    <a href="javascript:void(0);" onclick="toggleAbstract()">Abstract</a>
 
-    <!-- Hidden content, initially collapsed -->
+    <!-- Hidden abstract content -->
     <div id="abstract-content" style="display:none;">
       <p><strong>Abstract</strong>—Abrupt resolution changes in virtual reality (VR) streaming can significantly impair the quality-of-experience (QoE) of users, particularly during transitions from high to low resolutions. Existing QoE models and transmission schemes inadequately address the perceptual impact of these shifts. To bridge this gap, this article proposes, for the first time, an innovative physiological signal-driven QoE modeling and optimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporal dynamics of physiological responses and resolution changes in VR streaming, enabling accurate quantification of resolution upgrades’ benefits and downgrades’ impacts. Integrated the proposed QoE framework into the radio access network (RAN) via a deep reinforcement learning (DRL) framework, adaptive transmission strategies have been implemented to allocate radio resources dynamically, which mitigates short-term channel fluctuations and adjusts frame resolution in response to channel variations caused by user mobility. By prioritizing long-term resolution while minimizing abrupt transitions, the proposed solution achieves an 88.7% improvement in resolution and an 81.0% reduction in handover over the baseline. Experimental results demonstrate the effectiveness of this physiological signal-driven strategy, underscoring the promise of edge AI in immersive media services.</p>
     </div>
@@ -156,13 +169,10 @@ Chang Wu†, **Yuang Chen†**, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hanc
   // Function to toggle the abstract content visibility
   function toggleAbstract() {
     var abstractContent = document.getElementById("abstract-content");
-    var button = document.querySelector(".toggle-abstract");
     if (abstractContent.style.display === "none") {
       abstractContent.style.display = "block";
-      button.innerHTML = "Hide Abstract"; // Change button text
     } else {
       abstractContent.style.display = "none";
-      button.innerHTML = "Show Abstract"; // Change button text
     }
   }
 </script>
