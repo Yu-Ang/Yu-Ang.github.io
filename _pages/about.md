@@ -44,7 +44,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian, China.
 
 # 💻 Internship & Work Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
