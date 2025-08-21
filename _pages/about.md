@@ -1,4 +1,4 @@
----
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/4b04f98d-9b43-46f9-8916-0d7e8d04f05c" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -38,7 +38,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06 (Expected)*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internship & Work Experience
