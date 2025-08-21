@@ -100,7 +100,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ComMag 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/MCOM.020.2300156)
+[[1] When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/MCOM.020.2300156)
 
 **Yuang Chen**, Hancheng Lu, Langtian Qin, Yansha Deng, and Arumugam Nallanathan.
 - The advent of next-generation ultra-reliable and low-latency communications (xURLLC) presents stringent and unprecedented requirements for key performance indicators (KPls). As a disruptive technology, non-orthogonal multiple access (NOMA) harbors the potential to fulfill these stringent KPls essential for xURLLC. In this article, we develop a NOMA-assisted uplink xURLLC network architecture that incorporates an SNC-based SQP theoretical framework (SNC-SQP) to support tail distribution analysis in terms of delay, age-of-information (AoI), and reliability. Based on SNC-SQP, an SQP-driven power optimization problem is proposed to minimize transmit power while guaranteeing xURLLC's KPls on delay, AoI, reliability, and power consumption.
@@ -111,7 +111,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/TWC.2023.3347667)
+[[2] Statistical QoS Provisioning Analysis and Performance Optimization in xURLLC-enabled Massive MU-MIMO Networks: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/TWC.2023.3347667)
 
 **Yuang Chen**, Hancheng Lu, Langtian Qin, Chengwu Zhang, and Chang Wen Chen.
 - In this paper, fundamentals and performance tradeoffs of next-generation ultra-reliable and low-latency communication (xURLLC) are investigated from the perspective of stochastic network calculus (SNC). An xURLLC-enabled massive MU-MIMO system model has been developed to accommodate xURLLC features. By leveraging and promoting SNC, we provide a quantitative statistical quality of service (QoS) provisioning analysis and derive the closed-form expression of upper-bounded statistical delay violation probability (UB-SDVP). Based on the proposed theoretical framework, we formulate the UB-SDVP minimization problem, which is first degenerated into a one-dimensional integer-search problem by deriving the minimum error probability (EP) detector, and then efficiently solved by the integer-form Golden-Section search algorithm.
@@ -122,7 +122,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Streaming 360-degree VR video with statistical QoS provisioning in mmWave networks from delay and rate perspectives](https://doi.org/10.1109/TWC.2025.3543615)
+[[3] Streaming 360-degree VR video with statistical QoS provisioning in mmWave networks from delay and rate perspectives](https://doi.org/10.1109/TWC.2025.3543615)
 
 **Yuang Chen**, Hancheng Lu, Langtian Qin, Chang Wu, and Chang Wen Chen.
 - In this paper, we propose an innovative 360° VR streaming architecture that addresses three underexplored issues: overlapping fields-of-view (FoVs), statistical QoS provisioning (SQP), and loss-tolerant active data discarding. Specifically, we first design an overlapping FoV-based optimal joint unicast and multicast (JUM) task assignment scheme, which significantly conserves wireless resources by implementing non-redundant task allocation. Leveraging stochastic network calculus (SNC), we develop a comprehensive SNC-based SQP theoretical framework from delay and rate perspectives. Additionally, we propose two corresponding optimal adaptive joint resource allocation and active-discarding (ADAPT-JRAAD) transmission schemes to minimize resource consumption while guaranteeing SQP performance from delay and rate perspectives, respectively. 
@@ -133,7 +133,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Topology-Aware Microservice Architecture in Edge Networks: Deployment Optimization and Implementation](https://doi.org/10.1109/TMC.2025.3539312)
+[[4] Topology-Aware Microservice Architecture in Edge Networks: Deployment Optimization and Implementation](https://doi.org/10.1109/TMC.2025.3539312)
 
 **Yuang Chen**, Chang Wu, Fangyu Zhang, Chengdi Lu, Yongsheng Huang, and Hancheng Lu.
 - In this paper, we have proposed a topology-aware MSA characterized by a three-tier network traffic model encompassing the service, microservices, and edge node layers. This model meticulously characterizes the complex dependencies between edge network topologies and microservices, mapping microservice deployment onto link traffic to accurately estimate communication delay. Building upon this model, we have formulated a weighted sum communication delay optimization problem considering different types of services. Then, a novel topology-aware and individual-adaptive microservices deployment (TAIA-MD) scheme is proposed to solve the problem efficiently, which accurately senses the network topology and incorporates an individual-adaptive mechanism in a genetic algorithm to accelerate the convergence and avoid local optima.
@@ -144,7 +144,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Performance Optimization in RSMA-assisted Uplink xURLLC IIoT Networks with Statistical QoS Provisioning](https://ieeexplore.ieee.org/document/11037391)
+[[5] Performance Optimization in RSMA-assisted Uplink xURLLC IIoT Networks with Statistical QoS Provisioning](https://ieeexplore.ieee.org/document/11037391)
 
 **Yuang Chen**, Hancheng Lu, Chang Wu, Langtian Qin, and Xiaobo Guo.
 - In this paper, we study an innovative RSMA-assisted uplink xURLLC industrial internet-of-things (IIoT) (RSMA-xURLLC-IIoT) network, which takes into account imperfect CSI and finite blocklength (FBL) regimes. We develop a novel theoretical framework leveraging stochastic network calculus (SNC) aimed at revealing insights into statistical QoS provisioning (SQP). Building upon this framework, we formulate the SQP-driven short-packet size maximization and transmit power minimization problems, aiming to guarantee the SQP performance to delay, decoding, and reliability while maximizing the short-packet size and minimizing the transmit power, respectively. 
@@ -155,7 +155,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing xURLLC with RSMA-Assisted Massive-MIMO Networks: Performance Analysis and Optimization](https://doi.org/10.1109/TCOMM.2025.3581971)
+[[6] Enhancing xURLLC with RSMA-Assisted Massive-MIMO Networks: Performance Analysis and Optimization](https://doi.org/10.1109/TCOMM.2025.3581971)
 
 **Yuang Chen**, Hancheng Lu, Chenwu Zhang, Yansha Deng, and Arumugam Nallanathan.
 - In this paper, we develop an innovative RSMA-assisted massive-MIMO xURLLC (RSMA-mMIMO-xURLLC) framework tailored to accommodate xURLLC’s critical QoS constraints in finite blocklength (FBL) regimes. Leveraging uplink pilot training under imperfect CSI at the transmitter, we estimate channel gains and customize linear precoders for efficient downlink short-packet data transmission. Subsequently, we formulate a joint rate-splitting, beamforming, and transmit antenna selection optimization problem to maximize the total effective transmission rate (ETR). Addressing this multi-variable coupled non-convex problem, we decompose it into three corresponding subproblems and propose a low-complexity alternating optimization algorithm for efficient optimization.
@@ -166,7 +166,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DMSA: A Decentralized Microservice Architecture for Edge Networks (Accepted)](https://arxiv.org/abs/2501.00883)
+[[7] DMSA: A Decentralized Microservice Architecture for Edge Networks (Accepted)](https://arxiv.org/abs/2501.00883)
 
 **Yuang Chen**, Chengdi Lu, Chang Wu, Yongsheng Huang, Fengqian Guo, Hancheng Lu, and Chang Wen Chen.
 - The dispersed node locations and complex topologies of edge networks, combined with intricate dynamic microservice dependencies, render traditional centralized microservice architectures (MSAs) unsuitable. In this paper, we propose a decentralized microservice architecture (DMSA), which delegates scheduling functions from the control plane to edge nodes. DMSA redesigns and implements three core modules of microservice discovery, monitoring, and scheduling for edge networks to achieve precise awareness of instance deployments, low monitoring overhead and measurement errors, and accurate dynamic scheduling, respectively. 
@@ -177,7 +177,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Statistical QoS Provision in Business-Centric Networks (Under Major Revisions)](https://arxiv.org/abs/2408.15609)
+[[8] Statistical QoS Provision in Business-Centric Networks (Under Major Revisions)](https://arxiv.org/abs/2408.15609)
 
 Chang Wu†, **Yuang Chen†** (Co-First Author), and Hancheng Lu.
 - In this paper, we propose a novel Business-Centric Network (BCN) aimed at enabling scalable QoS provisioning, based on a cross-layer framework that captures the relationship between application, transport parameters, and channels. We investigate both continuous flow and event-driven flow models, presenting key QoS metrics such as throughput, delay, and reliability. By jointly considering power and bandwidth allocation, transmission parameters, and AP network topology across layers, we optimize weighted resource efficiency with statistical QoS provisioning. To address the coupling among parameters, we propose a novel deep reinforcement learning (DRL) framework, which is Collaborative Optimization among Heterogeneous Actors with Experience Sharing (COHA-ES). Power and sub-channel (SC) Actors representing multiple APs are jointly optimized under the unified guidance of a common critic. 
@@ -188,7 +188,7 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), and Hancheng Lu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://arxiv.org)
+[[9] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://arxiv.org)
 
 Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng Lu.
 - In this article, we propose an innovative switch-side fast and accurate flow control (FAFC) scheme. By differentially allocating pause time for each port during congestion, FAFC can minimize the performance loss for uncongested flows. Furthermore, FAFC is also coupled with an effective queue length prediction algorithm to enable proactive and reliable estimation of the congestion level.
@@ -198,7 +198,7 @@ Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
+[[10] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
 - This letter introduces a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction, named EGGCodec, which proposes a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy.
@@ -208,7 +208,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org)
+[[11] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiahong Yuan.
 - This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs.
@@ -219,7 +219,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiah
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission (Under Review)](https://arxiv.org/pdf/2508.09151)
+[[12] Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission (Under Review)](https://arxiv.org/pdf/2508.09151)
 
 Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
 
