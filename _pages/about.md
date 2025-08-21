@@ -113,4 +113,5 @@ I have also worked on speech signal processing technologies for smart healthcare
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 *👨‍👩‍👧‍👦 Collaborated Conferences*
-- [1] ASTD: Automatic Seasonal-Trend Decomposition for Time Series.
+- [2] Bowen Chen, Hancheng Lu, Y. Chen, Haoyue Yuan, and Minghui Wang, ``DGNN: Dynamic Graph Neural Networks for Anomaly Detection in Multivariate Time Series," in Proceedings of the 35th International Conference on Software Engineering and Knowledge Engineering, KSI Research Inc. 2023, pp. 1–6, doi: [10.18293/seke2023-094](https://doi.org/10.18293/seke2023-094).
+- [1] Yinglong Liu, Yuanchao Li, Rui Feng, Liu He, Jiaxin Chen, Yiming Wang, **Yuang Chen**, Yanhan Peng, Jiahong Yuan, and Zhenhua Lin. ``Leveraging Cascaded Binary Classification and Multimodal Methods for Dementia Detection," in Interspeech 2025 - 26th edition of the Interspeech Conference. IEEE (Accepted). 2025, p. 5. doi: [10.48550/arXiv.2505.19446](https://arxiv.org/abs/2505.19446).
