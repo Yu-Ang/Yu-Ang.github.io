@@ -38,7 +38,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 # 📖 Educations
 - *2023.09 - 2026.06 (Expected)*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2023.06*, Master, University of Science and Technology of China (中国科学技术大学), China.
+- *2017.09 - 2021.06*, Bachelor, Hefei University of Technology, China.
+- *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian, China.
 
 # 💻 Internship & Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
