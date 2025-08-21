@@ -174,7 +174,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/ChangWu-TWC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[8] Statistical QoS Provision in Business-Centric Networks (Under Major Revisions)](https://arxiv.org/abs/2408.15609)
@@ -195,7 +195,7 @@ Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/EGGCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[10] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
@@ -205,7 +205,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/EGGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[11] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org)
@@ -216,7 +216,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiah
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/VR-ComMag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[12] Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission (Under Review)](https://arxiv.org/pdf/2508.09151)
