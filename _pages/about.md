@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello everyone! I am a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
+- *Video Transmission Quality Optimization*
+- *Environment-Aware Robust Mobile Video Transmission*
+- *NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT)*
+
+Additionally, I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including speech signal-based diagnosis and screening for Alzheimer's Disease and Facial Paralysis.
+
+I have published more than 20 papers at the top international journals/conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
