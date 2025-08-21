@@ -33,7 +33,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 # 🔥 News 
 - *2025.07*: &nbsp;🎉🎉 我被南开大学计算机学院/密码与网络空间安全学院邀请参加第十届南开大学国际人才论坛！
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
-- *2025.07*: &nbsp;🎉🎉 我被邀请参加大连理工大学国际青年学者交流会！
+- *2025.07*: &nbsp;🎉🎉 [我被邀请参加大连理工大学国际青年学者交流会！](https://ice.dlut.edu.cn/info/1021/5886.htm)
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
 - *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
@@ -43,8 +43,11 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2017.09 - 2021.06*, Bachelor, Hefei University of Technology (合肥工业大学), China. (*Outstanding Thesis Award and Outstanding Graduate Award*)
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
 
-# 💻 Internship & Work Experience
-- *2023.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2024.08 - Now*, Full-time Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
+- *2025.06 - Now*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
+- *2022.08 - 2023.07*, Technical Research Engineer (Intern), H3C Technology Co., Ltd., Hefei Network Research Department, Next-Generation Wireless Network Technology Research.
+- *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
