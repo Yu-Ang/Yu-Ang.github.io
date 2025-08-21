@@ -109,6 +109,18 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission](https://arxiv.org/pdf/2508.09151)
+
+Chang Wu†, **Yuang Chen†**, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
+
+[**Raw Data**](https://rec.ustc.edu.cn/share/fb4a56a0-650d-11f0-ac29-33d1eecb5cd8) and [**Code**](https://github.com/ChangWu98/LiveVR_PPO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong
+- Abrupt resolution changes in virtual reality (VR) streaming can significantly impair the quality-of-experience (QoE)of users, particularly during transitions from high to lowresolutions. Existing QoE models and transmission schemesinadequately address the perceptual impact of these shifts.To bridge this gap, this article proposes, for the first time,an innovative physiological signal-driven QoE modeling andoptimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporaldynamics of physiological responses and resolution changesin VR streaming, enabling accurate quantification of resolution upgrades’ benefits and downgrades’ impacts. Integratedthe proposed QoE framework into the radio access network(RAN) via a deep reinforcement learning (DRL) framework,adaptive transmission strategies have been implemented toallocate radio resources dynamically, which mitigates shortterm channel fluctuations and adjusts frame resolution inresponse to channel variations caused by user mobility. Byprioritizing long-term resolution while minimizing abrupt transitions, the proposed solution achieves an 88.7% improvementin resolution and an 81.0% reduction in handover over thebaseline. Experimental results demonstrate the effectivenessof this physiological signal-driven strategy, underscoring thepromise of edge AI in immersive media services.
+</div>
+</div>
+
 *👨‍👩‍👧‍👦 Collaborated Journals*
 - [10] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
 - [9] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
@@ -122,7 +134,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - [1] Yinling Liu, Yuanchao Li, Rui Feng, Jiaxin Chen, Yiming Wang, **Yuang Chen**, Nan Ding, and Zhen-Hua Lin, "Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection*", submitted to *Journal of Biomedical Informatics*, 2025 (**Under Review**).
 
 *👨‍👩‍👧‍👦 Collaborated Conferences*
-- [11] Xue† Li, **Yuang Chen†**, Rui Feng†, and Jiahong Yuan, "*Intelligent Speech Analysis For Facial Paralysis: An Innovative Diagnostic Approach*,'' in 2025 FDI World Dental Congress (WDC). FDI (Accepted, **Co-First Author**, WDC is a flagship event for FDI).
+- [11] Xue Li†, **Yuang Chen†**, Rui Feng†, and Jiahong Yuan, "*Intelligent Speech Analysis For Facial Paralysis: An Innovative Diagnostic Approach*,'' in 2025 FDI World Dental Congress (WDC). FDI (Accepted, **Co-First Author**, WDC is a flagship event for FDI).
 - [10] Zhenyu Xue, Yuang Chen, Hancheng Lu, Baolin Chong, and Wanqing Long, "*Joint Beamforming and Power Control for D2D-Assisted Integrated Sensing and Communication Networks*,'' GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 5393-5398, doi: [10.1109/GLOBECOM52923.2024.10901750](https://doi.org/10.1109/GLOBECOM52923.2024.10901750).
 - [9] Rui Feng, Yuang Chen, Yinling Liu, Jiahong Yuan, and Zhenhua Ling, "*Wav2Nas: An Exploratory Approach to Nasalance Estimation in Speech*,'' 2024 IEEE 14th International Symposium on Chinese Spoken Language Processing (ISCSLP), Beijing, China, 2024, pp. 1-5, doi: [10.1109/ISCSLP63861.2024.10800253](https://doi.org/10.1109/ISCSLP63861.2024.10800253).
 - [8] Lunsheng Li, **Yuang Chen**, Hancheng Lu, Li He, Lei Gao, and Ningcheng Wang, "*Credit-R: Enhancing Credit-Based Congestion Control in Cross-Data Center Networks*,'' 2024 10th International Conference on Computer and Communications (ICCC), Chengdu, China, 2024, pp. 1458-1463, doi: [10.1109/ICCC62609.2024.10941866](https://doi.org/10.1109/ICCC62609.2024.10941866).
