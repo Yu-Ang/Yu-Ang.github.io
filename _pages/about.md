@@ -110,11 +110,30 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://arxiv.org)
+
+Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng Lu.
+- In this article, we propose an innovative switch-side fast and accurate flow control (FAFC) scheme. By differentially allocating pause time for each port during congestion, FAFC can minimize the performance loss for uncongested flows. Furthermore, FAFC is also coupled with an effective queue length prediction algorithm to enable proactive and reliable estimation of the congestion level.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.0892)
+
+Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
+- This letter introduces a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction, named EGGCodec, which proposes a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org/pdf/2508.09151)
+[EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiahong Yuan.
 - This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs.
