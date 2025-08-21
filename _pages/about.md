@@ -130,7 +130,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2024</div><img src='images/Topology-Aware-Microservice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[4] Topology-Aware Microservice Architecture in Edge Networks: Deployment Optimization and Implementation](https://doi.org/10.1109/TMC.2025.3539312)
