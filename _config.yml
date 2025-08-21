@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuang Chen (陳雨昂)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yuang Chen's Website"
+description              : "Believe you can and you're halfway there."
+repository               : "RayeRen/acad-homepage.github.io" # https://github.com/Yu-Ang
 google_scholar_stats_use_cdn : true
 
 # google analytics
