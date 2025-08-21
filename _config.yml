@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuang Chen's Website"
-description              : "*Be the best version of yourself. (做最好的自己)*"
+description              : "Be the best version of yourself. (做最好的自己)"
 repository               : "RayeRen/acad-homepage.github.io" # https://github.com/Yu-Ang
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KYq-NRoAAAAJ&hl=zh-CN"
-  email            : "Lorem@ipsum.com"
+  email            : "yuangchen21@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
