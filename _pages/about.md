@@ -31,6 +31,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *Deep Learning-based Quantitative Assessment for Language Impairments*
 
 # 🔥 News 
+- *2025.07*: &nbsp;🎉🎉 我被南开大学计算机学院/密码与网络空间安全学院邀请参加第十届南开大学国际人才论坛！
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
 - *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
