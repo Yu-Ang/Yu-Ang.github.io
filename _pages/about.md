@@ -104,13 +104,20 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 *👨‍👩‍👧‍👦 Collaborated Journals*
-- [3] sss
+- [10] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
+- [9] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
+- [8] Shuyi Liu, **Yuang Chen**, and Hangcheng Lu, "*SRH-Aware Traffic Engineering in Hybrid IP/SRv6 Networks with Deep Reinforcement Learning*," in IEEE Transactions on Network and Service Management, 2024 (**Under Major Revisions**).
+- [7] Langtian Qin, Hancheng Lu, **Yuang Chen**, Baolin Chong, and Fengqian Guo, "*Joint Transmission and Resource Optimization in NOMA-Assisted IoVT With Mobile Edge Computing*," in IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9984-9999, July 2024, doi: [10.1109/TVT.2024.3364358](https://doi.org/10.1109/TVT.2024.3364358).
+- [6] Chang Wu, Hancheng Lu, **Yuang Chen**, and Langtian Qin, "*Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding*," in IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, June 2024, doi: [10.1109/TCOMM.2024.3370817](https://doi.org/10.1109/TCOMM.2024.3370817).
+- [5] Langtian Qin, Hancheng Lu, **Yuang Chen**, Zhuojia Gu, Dan Zhao, and Feng Wu, "*Energy-Efficient Blockchain-Enabled User-Centric Mobile Edge Computing*," in IEEE Transactions on Cognitive Communications and Networking, vol. 10, no. 4, pp. 1452-1466, Aug. 2024, doi: [10.1109/TCCN.2024.3373624](https://doi.org/10.1109/TCCN.2024.3373624).
+- [4] Baolin Chong, Hancheng Lu, **Yuang Chen**, Langtian Qin, and Fengqian Guo, "*Achievable Sum Rate Optimization on NOMA-Aided Cell-Free Massive MIMO With Finite Blocklength Coding*," in IEEE Transactions on Vehicular Technology, vol. 74, no. 7, pp. 10881-10895, July 2025, doi: [10.1109/TVT.2025.3546936](https://doi.org/10.1109/TVT.2025.3546936).
+- [3] Langtian Qin, Hancheng Lu, **Yuang Chen**, Baolin Chong, and Feng Wu, "*Toward Decentralized Task Offloading and Resource Allocation in User-Centric MEC*," in IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 11807-11823, Dec. 2024, doi: [10.1109/TMC.2024.3399766](https://doi.org/10.1109/TMC.2024.3399766).
 - [2] Feihong Chen, Fengqian Guo, **Yuang Chen**, and Hancheng Lu, "*Reconfigurable Intelligent Surfaces-Assisted Secure Wireless Communication in Wiretap Systems with Multiple Base Stations*," in IEEE Transactions on Vehicular Technology, 2025 (**Accepted**).
 - [1] Yinling Liu, Yuanchao Li, Rui Feng, Jiaxin Chen, Yiming Wang, **Yuang Chen**, Nan Ding, and Zhen-Hua Lin, "Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection*", submitted to *Journal of Biomedical Informatics*, 2025 (**Under Review**).
 
