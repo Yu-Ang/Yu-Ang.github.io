@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone! I am a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 20 papers in the top international journals/conferences and hold multiple invention patents.
+Hello everyone! I am a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 20 papers in top international journals/conferences and hold multiple invention patents.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - *Video Transmission Quality Optimization*
 - *Environment-Aware Robust Mobile Video Transmission*
 - *NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT)*
 
-I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including speech signal-based diagnosis and screening for Alzheimer's Disease and Facial Paralysis.
-
+I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
+- *Speech Signal-based Diagnosis and Screening for Alzheimer's Disease and Facial Paralysis*.
+- *Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality)*
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
