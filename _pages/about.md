@@ -67,8 +67,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2014.06* Honorary Title of Fujian Province's Outstanding Student (福建省三好学生称号). 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.07*, ``[Research on Next-Generation Ultra-Reliable Low-Latency Communication Mechanism with Statistical QoS Provisioning](https://ice.dlut.edu.cn/info/1021/5886.htm)'', 2025 第十届大连市国际青年学者交流会信息与通信工程分论坛, 大连· 国际会议中心, (Oral).
+- *2024.09*, ``[Wav2Nas: An Exploratory Approach to Nasalance Estimation in Speech](https://ieeexplore.ieee.org/abstract/document/10800253)'', IEEE International Symposium on Chinese Spoken Language Processing (ISCSLP), Beijing, China, International Conference Center (Oral).
+- *2023.05*, ``Robust Wireless VR Video Transmission Based on Overlapped FoVs'', IEEE International Conference on Communications (ICC), Rome, Italy, International Conference Center (Oral).
 
 # 📝 Publications 
 
