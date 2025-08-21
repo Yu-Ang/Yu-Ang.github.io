@@ -97,7 +97,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 # 🀄 Publications
 *🥇 Selected Papers*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ComMag 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ComMag 2023</div><img src='images/NOMA-xURLLC-SNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[1] When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/MCOM.020.2300156)
