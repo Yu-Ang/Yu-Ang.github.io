@@ -121,6 +121,52 @@ Chang Wu†, **Yuang Chen†**, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hanc
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ComMag 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+    <a href="https://arxiv.org/pdf/2508.09151" target="_blank">
+      [Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission]
+    </a>
+    <br>
+    Chang Wu†, <strong>Yuang Chen†</strong>, Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
+    <br>
+    <a href="https://rec.ustc.edu.cn/share/fb4a56a0-650d-11f0-ac29-33d1eecb5cd8" target="_blank">[**Raw Data**]</a> and 
+    <a href="https://github.com/ChangWu98/LiveVR_PPO" target="_blank">[**Code**]</a>
+    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+    <br>
+
+    <!-- Add a button to toggle the abstract visibility -->
+    <button class="toggle-abstract" onclick="toggleAbstract()">Show Abstract</button>
+
+    <!-- Hidden content, initially collapsed -->
+    <div id="abstract-content" style="display:none;">
+      <p><strong>Abstract</strong>—Abrupt resolution changes in virtual reality (VR) streaming can significantly impair the quality-of-experience (QoE) of users, particularly during transitions from high to low resolutions. Existing QoE models and transmission schemes inadequately address the perceptual impact of these shifts. To bridge this gap, this article proposes, for the first time, an innovative physiological signal-driven QoE modeling and optimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporal dynamics of physiological responses and resolution changes in VR streaming, enabling accurate quantification of resolution upgrades’ benefits and downgrades’ impacts. Integrated the proposed QoE framework into the radio access network (RAN) via a deep reinforcement learning (DRL) framework, adaptive transmission strategies have been implemented to allocate radio resources dynamically, which mitigates short-term channel fluctuations and adjusts frame resolution in response to channel variations caused by user mobility. By prioritizing long-term resolution while minimizing abrupt transitions, the proposed solution achieves an 88.7% improvement in resolution and an 81.0% reduction in handover over the baseline. Experimental results demonstrate the effectiveness of this physiological signal-driven strategy, underscoring the promise of edge AI in immersive media services.</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  // Function to toggle the abstract content visibility
+  function toggleAbstract() {
+    var abstractContent = document.getElementById("abstract-content");
+    var button = document.querySelector(".toggle-abstract");
+    if (abstractContent.style.display === "none") {
+      abstractContent.style.display = "block";
+      button.innerHTML = "Hide Abstract"; // Change button text
+    } else {
+      abstractContent.style.display = "none";
+      button.innerHTML = "Show Abstract"; // Change button text
+    }
+  }
+</script>
+
 *👨‍👩‍👧‍👦 Collaborated Journals*
 - [10] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
 - [9] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
