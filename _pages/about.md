@@ -141,7 +141,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 [[4] Topology-Aware Microservice Architecture in Edge Networks: Deployment Optimization and Implementation](https://doi.org/10.1109/TMC.2025.3539312)
 
 **Yuang Chen**, Chang Wu, Fangyu Zhang, Chengdi Lu, Yongsheng Huang, and Hancheng Lu.
-- As a ubiquitous deployment paradigm, integrating microservice architecture (MSA) into edge networks promises to enhance the flexibility and scalability of services. However, it also presents significant challenges stemming from dispersed node locations and intricate network topologies. This work proposes a topology-aware MSA characterized by a three-tier network traffic model encompassing the service, microservices, and edge node layers to characterize the complex dependencies between edge network topologies and microservices, mapping microservice deployment onto link traffic to accurately estimate communication delay.
+- As a ubiquitous deployment paradigm, integrating microservice architecture (MSA) into edge networks promises to enhance flexibility and scalability. However, it presents significant challenges stemming from dispersed node locations and intricate network topologies. This work proposes a topology-aware MSA characterized by a three-tier network traffic model encompassing the service, microservices, and edge node layers to characterize the complex dependencies between edge network topologies and microservices, mapping deployment onto link traffic to accurately estimate communication delay.
 </div>
 </div>
 
