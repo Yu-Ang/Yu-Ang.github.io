@@ -21,14 +21,14 @@ redirect_from:
 Hello! I am Yuang Chen (陳雨昂), a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
-- *Video Transmission Quality Optimization*
-- *Environment-Aware Robust Mobile Video Transmission*
-- *NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT)*
+- ***Video Transmission Quality Optimization***
+- ***Environment-Aware Robust Mobile Video Transmission***
+- ***NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT)***
 
 I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
-- *Speech Signal-based Diagnosis and Screening for Alzheimer's Disease and Facial Paralysis*.
-- *Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality)*
-- *Deep Learning-based Quantitative Assessment for Language Impairments*
+- ***Speech Signal-based Diagnosis and Screening for Alzheimer's Disease and Facial Paralysis***.
+- ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
+- ***Deep Learning-based Quantitative Assessment for Language Impairments***
 
 # 🔥 News 
 - *2025.08*: &nbsp;🎉🎉 我被南开大学计算机学院/密码与网络空间安全学院邀请参加第十届南开大学国际人才论坛！
