@@ -36,9 +36,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 
 # 🔥 News 
-- *2025.08*: &nbsp;🎉🎉 我被南开大学计算机学院/密码与网络空间安全学院邀请参加第十届南开大学国际人才论坛！
+- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the 10th Nankai University International Talent Forum (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
-- *2025.07*: &nbsp;🎉🎉 [我被邀请参加大连理工大学国际青年学者交流会！](https://ice.dlut.edu.cn/info/1021/5886.htm)
+- *2025.07*: &nbsp;🎉🎉 I have been invited to attend the International Young Scholars Exchange Conference ([我被邀请参加大连理工大学国际青年学者交流会！](https://ice.dlut.edu.cn/info/1021/5886.htm)) at Dalian University of Technology!
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
 - *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
@@ -258,8 +258,8 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - [1] Yinglong Liu, Yuanchao Li, Rui Feng, Liu He, Jiaxin Chen, Yiming Wang, **Yuang Chen**, Yanhan Peng, Jiahong Yuan, and Zhenhua Lin, "*Leveraging Cascaded Binary Classification and Multimodal Methods for Dementia Detection*," in Interspeech 2025 - 26th edition of the Interspeech Conference, IEEE, doi: [10.48550/arXiv.2505.19446](https://arxiv.org/abs/2505.19446) (*Accepted*).
 
 *🥇 Patent*
-- [4] **Yuang Chen**, Rui Feng, and Jiahong Yuan, "*一种基于电子声门图的声门闭合瞬间高精度自动检测方法*", (Patent Number: [CN114915756B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh](https://kns.cnki.net/kcms2/article/abstract?v=K)), *Granted*).
-- [3] Hancheng Lu, Yongsheng Huang, **Yuang Chen**, and Feng Wu, "*一种边缘网络拓扑感知的微服务部署方法*," (Patent Number: [CN114915773B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh](https://kns.cnki.net/kcms2/article/abstract?v=K_cp52o2S7_Atbyp-7VcoY-4Dv9RKHujYKnHehTHZqPBBhvWs8QBZzMH3cBOsq5QrOoZJYDlRYZ7Q-CwpQhMVqzZZ4YxW8AHXwPSuVbZ-j6Te5qNlnj7a9NrCDDDfR1HgFZ0Z6sIImk=&uniplatform=NZKPT&language=CHS)), *Granted*).
-- [2] Hancheng Lu, and **Yuang Chen**, "*一种实现360度VR视频视场重叠失真最小化的稳健传输方法*," (Patent Number: [CN114915773B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh), *Granted*).
-- [1] Hancheng Lu, **Yuang Chen**, and Feng Wu, "*基于毫米波的360度VR视频数据传输方法、装置*," (Patent Number: [CN114928757B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDTgaHc1RZis6omr4kAd0KKkg&local=zh), *Granted*).
+- [4] **Yuang Chen**, Rui Feng, and Jiahong Yuan, "*A high-precision automatic detection method for glottal closure instant (GCI) based on electroglottograph (EGG) (一种基于电子声门图的声门闭合瞬间高精度自动检测方法)*", (Patent Number: [CN114915756B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh](https://kns.cnki.net/kcms2/article/abstract?v=K)), *Granted*).
+- [3] Hancheng Lu, Yongsheng Huang, **Yuang Chen**, and Feng Wu, "*An Edge Network Topology-Aware Microservice Deployment Method (一种边缘网络拓扑感知的微服务部署方法)*," (Patent Number: [CN114915773B](http://epub.cnipa.gov.cn/Dxb/IndexQuery)), *Granted*).
+- [2] Hancheng Lu, and **Yuang Chen**, "*A robust transmission method for minimizing 360 Degree VR video field-of-view (FoV) overlap distortion (一种实现360度VR视频视场重叠失真最小化的稳健传输方法)*," (Patent Number: [CN114915773B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh), *Granted*).
+- [1] Hancheng Lu, **Yuang Chen**, and Feng Wu, "*360-degree VR Video Data Transmission Method and 360-degree VR Video Data Transmission Device Based on Millimeter Waves (基于毫米波的360度VR视频数据传输方法、装置)*," (Patent Number: [CN114928757B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDTgaHc1RZis6omr4kAd0KKkg&local=zh), *Granted*).
 
