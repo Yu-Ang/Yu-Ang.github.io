@@ -267,3 +267,10 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - [2] Hancheng Lu, and **Yuang Chen**, "*A robust transmission method for minimizing 360 Degree VR video field-of-view (FoV) overlap distortion (一种实现360度VR视频视场重叠失真最小化的稳健传输方法)*," (Patent Number: [CN114915773B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDThiADBC5cRz9Wr4kAd0KKkg&local=zh), *Granted*).
 - [1] Hancheng Lu, **Yuang Chen**, and Feng Wu, "*360-degree VR Video Data Transmission Method and 360-degree VR Video Data Transmission Device Based on Millimeter Waves (基于毫米波的360度VR视频数据传输方法、装置)*," (Patent Number: [CN114928757B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDTgaHc1RZis6omr4kAd0KKkg&local=zh), *Granted*).
 
+# 🙈 Miscellaneous
+* 🛳 Travel Experience*
+* 📕 Books*
+* 🎦 Movies*
+* 📷 Photography*
+
+
