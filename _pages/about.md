@@ -102,13 +102,18 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 # 🀄 Publications
 *🥇 Selected Papers*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ComMag 2023</div><img src='images/NOMA-xURLLC-SNC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE ComMag 2023</div>
+      <img src='images/NOMA-xURLLC-SNC.png' alt="sym" width="100%">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
-
 [[1] When xURLLC Meets NOMA: A Stochastic Network Calculus Perspective](https://doi.org/10.1109/MCOM.020.2300156)
 
 **Yuang Chen**, Hancheng Lu, Langtian Qin, Yansha Deng, and Arumugam Nallanathan.
-- The advent of next-generation ultra-reliable and low-latency communications (xURLLC) presents stringent and unprecedented requirements for KPIs. In this article, we develop a NOMA-assisted uplink xURLLC network architecture that incorporates an SNC-based SQP theoretical framework (SNC-SQP) to support tail distribution analysis in terms of delay, AoI, and reliability.
+- **Abstract**: <details>The advent of next-generation ultra-reliable and low-latency communications (xURLLC) presents stringent and unprecedented requirements for KPIs. In this article, we develop a NOMA-assisted uplink xURLLC network architecture that incorporates an SNC-based SQP theoretical framework (SNC-SQP) to support tail distribution analysis in terms of delay, AoI, and reliability.</details>
 </div>
 </div>
 
