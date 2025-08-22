@@ -30,6 +30,8 @@ I have also worked on speech signal processing technologies for smart healthcare
 - ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
 - ***Deep Learning-based Quantitative Assessment for Language Impairments.***
 
+***🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!***
+
 # 🔥 News 
 - *2025.08*: &nbsp;🎉🎉 我被南开大学计算机学院/密码与网络空间安全学院邀请参加第十届南开大学国际人才论坛！
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
