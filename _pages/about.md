@@ -206,7 +206,7 @@ Chengdi Lu†, **Yuang Chen†** (Co-First Author), Fangyu Zhang, and Hancheng L
 [[10] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
-- This works introduces a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction, named EGGCodec, which proposes a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy.
+- This work introduces a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction, named EGGCodec, which proposes a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy.
 </div>
 </div>
 
@@ -216,7 +216,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yu
 [[11] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://arxiv.org)
 
 Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiahong Yuan.
-- This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs.
+- This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs. 
 </div>
 </div>
 
@@ -228,7 +228,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiah
 
 Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
 
-- This paper proposes a physiological signal-driven QoE framework for improving VR streaming resolution and user experience.
+- Existing QoE models and transmission schemes inadequately address the perceptual impact of these shifts. To bridge this gap, this article proposes, for the first time, an innovative physiological signal-driven QoE modeling and optimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporal dynamics of physiological responses and resolution changesin VR streaming, enabling accurate quantification of resolution upgrades' benefits and downgrades' impacts.
 </div>
 </div>
 
