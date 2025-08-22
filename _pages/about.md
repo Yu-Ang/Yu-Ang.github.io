@@ -228,7 +228,7 @@ Feng, Rui†, **Yuang Chen†** (Co-First Author), Jun Du, Zhenhua Lin, and Jiah
 
 Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
 
-- Existing QoE models and transmission schemes inadequately address the perceptual impact of these shifts. To bridge this gap, this article proposes, for the first time, an innovative physiological signal-driven QoE modeling and optimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporal dynamics of physiological responses and resolution changesin VR streaming, enabling accurate quantification of resolution upgrades' benefits and downgrades' impacts.
+- For the first time, this article proposes an innovative physiological signal-driven QoE modeling and optimization framework that fully leverages users’ electroencephalogram (EEG), electrocardiogram (ECG), and skin activity signals. This framework precisely captures the temporal dynamics of physiological responses and resolution changes in VR streaming, enabling accurate quantification of the resolution upgrades and the impacts of downgrades.
 </div>
 </div>
 
