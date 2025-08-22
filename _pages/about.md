@@ -38,7 +38,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 # 🔥 News 
 - *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the **10th Nankai University International Talent Forum** (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
-- *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm)(第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm)(2025年大连全球人才创新发展交流会)!
+- *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
 - *2025.05*: &nbsp;🎉🎉 Our paper ``Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
@@ -68,7 +68,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2019.08* Meritorious Winner of The Interdisciplinary Contest in Modeling (全球跨学科数学建模竞赛).
 - *2019.07* Provincial Third Prize in National Mathematical Modeling Contest (全国大学生数学建模竞赛).
 - *2019.06* Provincial Second Prize in National Electronic Design Contest (全国大学生电子设计竞赛).
-- *2018.12* Third Prize in Chinese Mathematics Competition (全国大学生数学竞赛, 非数学类).
+- *2018.12* Third Prize in Chinese Mathematics Competition (全国大学生数学竞赛, 非数学专业).
 - *2014.06* Honorary Title of Fujian Province's Outstanding Student (福建省三好学生称号). 
 
 # 💬 Invited Talks
