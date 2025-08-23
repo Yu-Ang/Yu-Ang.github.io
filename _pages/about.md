@@ -283,6 +283,7 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - By My Side —— Radwimps, [Click to enjoy](https://www.youtube.com/watch?v=BIfY2s2A4IU)
 
 *📕 Books*
+
 ***Here are some books that have inspired me greatly, and I read the Chinese translated versions. I have all the PDF formats, but considering copyright, please contact me via email if you need them.***
 - 《百年孤独》——加西亚·马尔克斯
 <details><summary>Click to view book review</summary><strong>读后感:</strong> 我被马尔克斯魔幻现实主义的叙事风格深深震撼。布恩迪亚家族七代人的传奇故事，从马孔多小镇的兴起，到最终的衰落，交织着战争、爱情、孤独与命运的主题。那些奇幻元素，如飞毯、冰块的奇迹、永不停息的雨水，并非单纯的幻想，而是对拉丁美洲历史和社会现实的隐喻。它让我重新审视人类历史的循环性：家族的兴衰仿佛是人类文明的缩影，孤独是每个人无法逃脱的宿命。家族成员间看似独立的命运，却在历史长河中相互影响，就像量子比特间的非局部关联。这启发我在处理人与人之间的社会情感时，考虑更复杂的系统动态，避免陷入线性思维的陷阱。马尔克斯的语言如诗般流畅，人物形象生动而复杂，比如乌苏拉的坚强、奥雷里亚诺的革命热情，都让我感受到生命的荒谬与美好。在当下快节奏的学术世界，这本书提醒我停下来思考根源与传承，避免研究中重蹈历史的覆辙。它不仅是一部文学巨著，更是一面镜子，照出我们内心的孤独与渴望。读完后，我常常回想那句 “许多年以后，面对行刑队，奥雷里亚诺·布恩迪亚上校将会回想起父亲带他去见识冰块的那个遥远的下午”，这让我对时间和记忆有了全新的理解。总之，这本书让我在学术研究之外，学会用更诗意的眼光看待人生，并将这种跨界思维融入其中。</details>
