@@ -277,6 +277,8 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - Begin Again —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=cMPEd8m79Hw)
 - Stay —— Tonya Mitchell, [Click to enjoy](https://www.youtube.com/watch?v=dO05he2Xo4c)
 - Stop Crying Your Heart Out —— Oasis, [Click to enjoy](https://www.youtube.com/watch?v=dhZUsNJ-LQU)
+- Dying In the Sun —— Cranberries, [Click to enjoy](https://www.youtube.com/watch?v=c2xUwgyj05c)
+- Clouds —— Zach Sobiech, [Click to enjoy](https://www.youtube.com/watch?v=sDC97j6lfyc)
 
 *📕 Books*
 - 《百年孤独》——加西亚·马尔克斯, 这本书让我沉浸在魔幻现实主义的家族史诗中，重新审视时间与记忆的交织。
