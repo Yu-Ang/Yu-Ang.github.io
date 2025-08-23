@@ -274,6 +274,9 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 
 ***Here is some music that I often listen to while working, which may also make you feel relaxed and happy.***
 - All Too Well —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=sRxrwjOtIag)
+- Begin Again —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=cMPEd8m79Hw)
+- Stay —— Tonya Mitchell, [Click to enjoy](https://www.youtube.com/watch?v=dO05he2Xo4c)
+- Stop Crying Your Heart Out —— Oasis, [Click to enjoy](https://www.youtube.com/watch?v=dhZUsNJ-LQU)
 
 *📕 Books*
 - 《百年孤独》——加西亚·马尔克斯, 这本书让我沉浸在魔幻现实主义的家族史诗中，重新审视时间与记忆的交织。
