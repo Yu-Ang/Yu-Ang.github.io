@@ -268,8 +268,6 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - [1] Hancheng Lu, **Yuang Chen**, and Feng Wu, "*360-degree VR Video Data Transmission Method and 360-degree VR Video Data Transmission Device Based on Millimeter Waves (基于毫米波的360度VR视频数据传输方法、装置)*," (Patent Number: [CN114928757B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDTgaHc1RZis6omr4kAd0KKkg&local=zh), *Granted*).
 
 # 🙈 Miscellaneous
-*🛳 Travel Experience*
-
 *🎸 Music*
 
 ***Here is some music that I often listen to while working, which may also make you feel relaxed and happy.***
