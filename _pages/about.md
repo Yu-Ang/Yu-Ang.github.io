@@ -281,6 +281,7 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 - Clouds —— Zach Sobiech, [Click to enjoy](https://www.youtube.com/watch?v=sDC97j6lfyc)
 - Five Hundred Miles —— Justin Timberlake, [Click to enjoy](https://www.youtube.com/watch?v=4ExNM0RrH0o)
 - By My Side —— Radwimps, [Click to enjoy](https://www.youtube.com/watch?v=BIfY2s2A4IU)
+- 《北京东路的日子》—— 词: 汪源  曲：孙磊, [Click to enjoy](https://www.youtube.com/watch?v=kBu8vUkk2S0)
 
 *📕 Books*
 
