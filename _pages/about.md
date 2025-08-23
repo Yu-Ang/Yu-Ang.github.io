@@ -270,7 +270,7 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 # 🙈 Miscellaneous
 *🛳 Travel Experience*
 
-*🎦 Movies*
+*🎸 Music*
 
 ***Here is some music that I often listen to while working, which may also make you feel relaxed and happy.***
 - All Too Well —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=sRxrwjOtIag)
