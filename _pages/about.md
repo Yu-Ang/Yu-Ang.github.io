@@ -271,23 +271,16 @@ Chang Wu†, **Yuang Chen†** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xia
 *🎸 Music*
 
 ***Here is some music that I often listen to while working, which may also make you feel relaxed and happy.***
-[8] All Too Well —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=sRxrwjOtIag)
 
-[8] Begin Again —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=cMPEd8m79Hw)
-
-[7] Stay —— Tonya Mitchell, [Click to enjoy](https://www.youtube.com/watch?v=dO05he2Xo4c)
-
-[6] Stop Crying Your Heart Out —— Oasis, [Click to enjoy](https://www.youtube.com/watch?v=dhZUsNJ-LQU)
-
-[5] Dying In the Sun —— Cranberries, [Click to enjoy](https://www.youtube.com/watch?v=c2xUwgyj05c)
-
-[4] Clouds —— Zach Sobiech, [Click to enjoy](https://www.youtube.com/watch?v=sDC97j6lfyc)
-
-[3] Five Hundred Miles —— Justin Timberlake, [Click to enjoy](https://www.youtube.com/watch?v=4ExNM0RrH0o)
-
-[2]By My Side —— Radwimps, [Click to enjoy](https://www.youtube.com/watch?v=BIfY2s2A4IU)
-
-[1] 《北京东路的日子》—— 词: 汪源  曲：孙磊, [Click to enjoy](https://www.youtube.com/watch?v=kBu8vUkk2S0)
+- All Too Well —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=sRxrwjOtIag)
+- Begin Again —— Taylor Swift, [Click to enjoy](https://www.youtube.com/watch?v=cMPEd8m79Hw)
+- Stay —— Tonya Mitchell, [Click to enjoy](https://www.youtube.com/watch?v=dO05he2Xo4c)
+- Stop Crying Your Heart Out —— Oasis, [Click to enjoy](https://www.youtube.com/watch?v=dhZUsNJ-LQU)
+- Dying In the Sun —— Cranberries, [Click to enjoy](https://www.youtube.com/watch?v=c2xUwgyj05c)
+- Clouds —— Zach Sobiech, [Click to enjoy](https://www.youtube.com/watch?v=sDC97j6lfyc)
+- Five Hundred Miles —— Justin Timberlake, [Click to enjoy](https://www.youtube.com/watch?v=4ExNM0RrH0o)
+- By My Side —— Radwimps, [Click to enjoy](https://www.youtube.com/watch?v=BIfY2s2A4IU)
+- 《北京东路的日子》—— 词: 汪源  曲：孙磊, [Click to enjoy](https://www.youtube.com/watch?v=kBu8vUkk2S0)
 
 *📕 Books*
 
