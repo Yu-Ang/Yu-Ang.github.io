@@ -236,7 +236,9 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 </div>
 </div>
 
-*👨‍👩‍👧‍👦 Collaborated Journals*
+<hr style="border: 2px dashed #B22222;" />
+<h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals:</h2>
+
 - [10] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
 - [9] Fangyu Zhang, **Yuang Chen**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
 - [8] Shuyi Liu, **Yuang Chen**, and Hangcheng Lu, "*SRH-Aware Traffic Engineering in Hybrid IP/SRv6 Networks with Deep Reinforcement Learning*," in IEEE Transactions on Network and Service Management, 2024 (**Under Major Revisions**).
