@@ -278,7 +278,8 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 - [1] Hancheng Lu, **Yuang Chen**, and Feng Wu, "*360-degree VR Video Data Transmission Method and 360-degree VR Video Data Transmission Device Based on Millimeter Waves (基于毫米波的360度VR视频数据传输方法、装置)*," (Patent Number: [CN114928757B](https://www.incopat.com/detail/init2?formerQuery=3eQEo0gaDTgaHc1RZis6omr4kAd0KKkg&local=zh), *Granted*).
 
 # 🙈 Miscellaneous
-*🎸 Music*
+
+<h2 style="color: darkred;"> 🎸 Music</h2>
 
 ***Here is some music that I often listen to while working, which may also make you feel relaxed and happy.***
 
@@ -292,7 +293,9 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 - By My Side —— Radwimps, [Click to enjoy](https://www.youtube.com/watch?v=BIfY2s2A4IU)
 - 《北京东路的日子》—— 词: 汪源  曲：孙磊, [Click to enjoy](https://www.youtube.com/watch?v=kBu8vUkk2S0)
 
-*📕 Books*
+<hr style="border: 2px dashed #B22222;" />
+
+<h2 style="color: darkred;"> 📕 Books</h2>
 
 ***Here are some books that have inspired me greatly, and I read the Chinese translated versions. I have all the PDF formats, but considering copyright, please contact me via email if you need them.***
 
@@ -356,7 +359,9 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 [1] **《奥德赛》——荷马**
 <details><summary>Click to view book review</summary><strong>读后感:</strong> 荷马的《奥德赛》是冒险史诗，读后让我追溯人类主题。奥德修斯归家历程，充满神怪与考验。它探讨忠诚、智慧与命运，影响西方文学。这让我思考旅程的意义：不仅是物理，更是心灵成长。</details>
 
-*🎦 Movies*
+<hr style="border: 2px dashed #B22222;" />
+
+<h2 style="color: darkred;"> 🎦 Movies</h2>
 
 ***Here are some of my favorite movies, hoping you enjoy them.***
 
@@ -374,6 +379,10 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 
 - **美丽中国——一部有关中国自然主题的6集自然纪录片[Click to watch](https://www.bilibili.com/video/BV1XG4y1n77B?vd_source=4ba40519b8acb74a7d912dcf4b1f0fc2&spm_id_from=333.788.videopod.episodes)**
 <details><summary>Click to view movie review</summary><strong>观后感:</strong> 《美丽中国》以壮阔的镜头展现了中国从喜马拉雅山脉到南海珊瑚礁的多样生态。影片穿越高原、森林、河流与海洋，捕捉珍稀物种如大熊猫、金丝猴和朱鹮的生存故事，交织人文与自然的和谐画卷。旁白优美，配乐悠扬，让人仿佛置身于这片古老而生机勃勃的土地。我被大自然的鬼斧神工深深震撼。镜头下，雪山融水滋养江河，竹海中熊猫悠然自得，揭示了生命的韧性与循环：万物相生相克，却在平衡中永续。哲理在于，自然并非人类的附庸，而是智慧的导师。它教导我们，多样性是生存的基石——从热带雨林的繁茂到戈壁沙漠的坚韧，每一种生态都如人生阶段，缺一不可。人类干预往往打破这平衡，如污染与开发带来的危机，提醒我们：贪婪如病毒，侵蚀和谐；谦卑如雨露，滋养万物。在快节奏的现代社会，这部影片如镜子，照见我们内心的荒芜：追求物质时，是否遗忘了与自然的共鸣？美丽不止于表象，而是内在的平衡与敬畏。人类如纪录片中的游牧民，应顺应自然，而非征服它。唯有守护这片土地，方能传承永恒的生机。</details>
-*📷 Photography*
+
+<hr style="border: 2px dashed #B22222;" />
+
+<h2 style="color: darkred;"> 📷 Photography</h2>
+
 
 
