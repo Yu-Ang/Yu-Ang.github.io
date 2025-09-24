@@ -242,6 +242,16 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/Jund-F0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[13] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
+**Yuang Chen<sup>†</sup>**, Rui Feng<sup>†</sup>, (Co-First Author), Yin-Long Liu, Yu Hu, Jiahong Yuan,
+
+<details><summary>Click to view details</summary><strong>Abstract:</strong> This paper addresses the limitations of the confidence-driven unvoiced estimation (CUE) strategy commonly adopted in deep learning-based F0 extraction methods, particularly with respect to adaptability and explicit voiced/unvoiced (V/UV) modeling. To overcome these challenges, we propose a novel deep learning framework, JUND-F0 (Joint V/UV Detection and F0 extraction). JUND-F0 integrates two innovative strategies: the Joint F0 and V/UV learning method (JFUV) and the Unified F0 and V/UV detection method (UFUV). JFUV incorporates V/UV information directly into the network, enabling simultaneous learning of voice activity and pitch distributions. UFUV, in contrast, treats unvoiced frames as an explicit class within the network output, supporting end-to-end V/UV judgments alongside precise pitch predictions. Experimental results demonstrate that JUND-F0 achieves comprehensive improvements over state-of-the-art models across multiple benchmark datasets, yielding superior performance in terms of mean absolute error (MAE), gross pitch error (GPE), raw pitch accuracy (RPA), and voicing decision error (VDE).</details>
+</div>
+</div>
+
 <hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals</h2>
 
@@ -258,7 +268,7 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 
 <hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Conferences</h2>
-- [12] Yin-Long Liu, Yuanchao Li, Yuang Chen, Liu He, Rui Feng, Jia-Xin Chen, Jiahong Yuan, "Cross-Lingual Alzheimer’s Disease Detection With Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning," submitted to ICASSP 2025, 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain. [[pdf]](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/ICASSP_2026_paper3.pdf) (**Under Review**)
+- [12] Yin-Long Liu, Yuanchao Li, **Yuang Chen**, Liu He, Rui Feng, Jia-Xin Chen, Jiahong Yuan, "Cross-Lingual Alzheimer’s Disease Detection With Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning," submitted to ICASSP 2025, 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain. [[pdf]](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/ICASSP_2026_paper3.pdf) (**Under Review**)
 - [11] Xue Li<sup>†</sup>, **Yuang Chen<sup>†</sup>**, Rui Feng<sup>†</sup>, and Jiahong Yuan, "*Intelligent Speech Analysis For Facial Paralysis: An Innovative Diagnostic Approach*,'' in 2025 FDI World Dental Congress (WDC). FDI (Accepted, **Co-First Author**, WDC is a flagship event for FDI).
 - [10] Zhenyu Xue, Yuang Chen, Hancheng Lu, Baolin Chong, and Wanqing Long, "*Joint Beamforming and Power Control for D2D-Assisted Integrated Sensing and Communication Networks*,'' GLOBECOM 2024 - 2024 IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 5393-5398, doi: [10.1109/GLOBECOM52923.2024.10901750](https://doi.org/10.1109/GLOBECOM52923.2024.10901750).
 - [9] Rui Feng, Yuang Chen, Yinling Liu, Jiahong Yuan, and Zhenhua Ling, "*Wav2Nas: An Exploratory Approach to Nasalance Estimation in Speech*,'' 2024 IEEE 14th International Symposium on Chinese Spoken Language Processing (ISCSLP), Beijing, China, 2024, pp. 1-5, doi: [10.1109/ISCSLP63861.2024.10800253](https://doi.org/10.1109/ISCSLP63861.2024.10800253).
