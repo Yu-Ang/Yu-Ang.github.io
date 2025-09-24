@@ -36,7 +36,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 
 # 🔥 News 
-- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the **10th Nankai University International Talent Forum** (第十届南开大学国际人才论坛)!
+- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the 10th [Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
 - *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
@@ -246,6 +246,7 @@ Chang Wu<sup>†</sup>, **Yuang Chen<sup>†</sup>** (Co-First Author), Yiyuan C
 <div class='paper-box-text' markdown="1">
 
 [[13] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
+
 **Yuang Chen<sup>†</sup>**, Rui Feng<sup>†</sup>, (Co-First Author), Yin-Long Liu, Yu Hu, Jiahong Yuan,
 
 <details><summary>Click to view details</summary><strong>Abstract:</strong> This paper addresses the limitations of the confidence-driven unvoiced estimation (CUE) strategy commonly adopted in deep learning-based F0 extraction methods, particularly with respect to adaptability and explicit voiced/unvoiced (V/UV) modeling. To overcome these challenges, we propose a novel deep learning framework, JUND-F0 (Joint V/UV Detection and F0 extraction). JUND-F0 integrates two innovative strategies: the Joint F0 and V/UV learning method (JFUV) and the Unified F0 and V/UV detection method (UFUV). JFUV incorporates V/UV information directly into the network, enabling simultaneous learning of voice activity and pitch distributions. UFUV, in contrast, treats unvoiced frames as an explicit class within the network output, supporting end-to-end V/UV judgments alongside precise pitch predictions. Experimental results demonstrate that JUND-F0 achieves comprehensive improvements over state-of-the-art models across multiple benchmark datasets, yielding superior performance in terms of mean absolute error (MAE), gross pitch error (GPE), raw pitch accuracy (RPA), and voicing decision error (VDE).</details>
