@@ -36,7 +36,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 
 # 🔥 News 
-- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the 10th [Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
+- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the [10th Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
 - *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!
 - *2025.06*: &nbsp;🎉🎉 Our paper ``Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
