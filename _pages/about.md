@@ -26,7 +26,7 @@ My research interests focus on intelligent communication and multimedia (e.g., I
 - ***NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT).***
 
 I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
-- ***Multimodal Large Language Model-Based Cross-Lingual Alzheimer's Disease Detection***
+- ***Multimodal Large Language Model (MLLM)-Based Cross-Lingual Alzheimer's Disease Detection***
 - ***Speech Signal-based Diagnosis and Screening for Facial Paralysis.***.
 - ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
 - ***Deep Learning-based Quantitative Assessment for Language Impairments.***
