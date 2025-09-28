@@ -26,9 +26,11 @@ My research interests focus on intelligent communication and multimedia (e.g., I
 - ***NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT).***
 
 I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
-- ***Speech Signal-based Diagnosis and Screening for Alzheimer's Disease and Facial Paralysis.***.
+- ***Multimodal Large Language Model-Based Cross-Lingual Alzheimer's Disease Detection***
+- ***Speech Signal-based Diagnosis and Screening for Facial Paralysis.***.
 - ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
 - ***Deep Learning-based Quantitative Assessment for Language Impairments.***
+
 
 <p style="color: blue; font-weight: bold; font-style: italic;">
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
