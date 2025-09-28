@@ -192,10 +192,20 @@ I have also worked on speech signal processing technologies for smart healthcare
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2025</div><img src='images/Branching Structure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[8] AoI-Aware Task Offloading and Transmission Optimization for Large-Scale IIoT Networks: A Branching Deep Reinforcement Learning Approach (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/AoI-IIoT-Branching D3QN.pdf)
+
+**<u>Yuang Chen</u>**, Chang Wu, Fengqian Guo, Hancheng Lu, and Chang Wen Chen.
+<details><summary>Click to view details</summary><strong>Abstract:</strong> In the sixth-generation mobile communication (6G) discussed by IMT-2030, significant emphasis is placed on massive communications and ubiquitous connectivity, which has greatly driven the explosive growth in the number of devices with stringent timeliness demands, represented by the industrial Internet of Things (IIoT). In this paper, we propose an age-of-information (AoI)-aware multi-base station (BS) real-time monitoring framework to support large-scale IIoT access. We formulate a joint task offloading and resource allocation optimization problem with the goal of minimizing long-term average AoI, while considering the delay, energy consumption, resource allocation, and task scheduling constraints. For the task offloading subproblem, we equivalently transform it into a constrained Markov decision process (CMDP) and propose an innovative branching-based Dueling Double Deep Q-Network (Branch-D3QN) algorithm to effectively tackle it, significantly reducing the action space complexity from exponential to $\mathcal{Q}(n)$, enhancing convergence speed and stability. For the resource allocation subproblem, we prove the convexity of this subproblem by deriving the semi-definite property of the Hessian matrix of bandwidth and computation resources. Furthermore, we propose an iterative optimization algorithm for efficient joint task offloading and resource allocation to achieve optimal average AoI performance. Extensive simulations show that our proposed Branching-D3DN algorithm outperforms both the state-of-the-art DRL methods and classical heuristics, achieving up to $75\%$ enhanced convergence speed and at least $22\%$ reduced long-term average AoI.</details>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/ChangWu-TWC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[8] Statistical QoS Provision in Business-Centric Networks (Accepted)](https://arxiv.org/abs/2408.15609)
+[[9] Statistical QoS Provision in Business-Centric Networks (Accepted)](https://arxiv.org/abs/2408.15609)
 
 Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), and Hancheng Lu.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> More refined resource management and Quality of Service (QoS) provisioning are the critical goals of wireless communication technologies. In this paper, we propose a novel Business-Centric Network (BCN) aimed at enabling scalable QoS provisioning, based on a cross-layer framework that captures the relationship between application, transport parameters, and channels. We investigate both continuous flow and event-driven flow models, presenting key QoS metrics such as throughput, delay, and reliability. By jointly considering power and bandwidth allocation, transmission parameters, and AP network topology across layers, we optimize weighted resource efficiency with statistical QoS provisioning. To address the coupling among parameters, we propose a novel deep reinforcement learning (DRL) framework, which is Collaborative Optimization among Heterogeneous Actors with Experience Sharing (COHA-ES). Power and sub-channel (SC) Actors representing multiple APs are jointly optimized under the unified guidance of a common critic. Additionally, we introduce a novel multithreaded experience-sharing mechanism to accelerate training and enhance rewards. Extensive comparative experiments validate the effectiveness of our DRL framework in terms of convergence and efficiency. Moreover, comparative analyses demonstrate the comprehensive advantages of the BCN structure in enhancing both spectral and energy efficiency.</details>
@@ -206,17 +216,17 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/FAFC-TNSM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[9] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/tnsm-FAFC-cya.pdf)
+[[10] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/tnsm-FAFC-cya.pdf)
 
 Chengdi Lu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Fangyu Zhang, and Hancheng Lu.
-<details><summary>Click to view details</summary><strong>Abstract:</strong> In this article, we propose an innovative switch-side fast and accurate flow control (FAFC) scheme. By differentially allocating pause time for each port during congestion, FAFC can minimize the performance loss for uncongested flows. Furthermore, FAFC is also coupled with an effective queue length prediction algorithm to enable proactive and reliable estimation of the congestion level.</details>
+<details><summary>Click to view details</summary><strong>Abstract:</strong> In data centers, large-scale many-to-one traffic can rapidly exhaust switch buffers and trigger priority-based flow control (PFC) pause, resulting in increased flow completion time (FCT) for uncongested flows. To address this issue, we propose an innovative switch-side fast and accurate flow control (FAFC) scheme. By differentially allocating pause time for each port during congestion, FAFC can minimize the performance loss for uncongested flows. Furthermore, FAFC is also coupled with an effective queue length prediction algorithm to enable proactive and reliable estimation of the congestion level. Extensive system-level simulations demonstrate that FAFC can flexibly allocate pause times across congested ports, which are not only compatible with existing PFC but also do not require per-flow states. We implemented FAFC in P4 programmable switches, showing it as lightweight flow control method that is portable for implementation in hardware. Remarkably, our large-scale simulations illustrate that compared to traditional PFC, FAFC improves the average FCT slowdown and 95% FCT slowdown by 10.6% and 23.3%, respectively, under Hadoop workload when performing HPCC congestion control.</details>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/EGGCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[10] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
+[[11] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
 
 Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> This letter introduces EGGCodec, a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction. We propose a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy. Unlike conventional Encodec models that extract F0 directly from features, EGGCodec leverages reconstructed EGG signals, which more closely correspond to F0. By removing the conventional GAN discriminator, we streamline EGGCodec's training process without compromising efficiency, incurring only negligible performance degradation. Trained on a widely used EGG-inclusive dataset, extensive evaluations demonstrate that EGGCodec outperforms state-of-the-art F0 extraction schemes, reducing mean absolute error (MAE) from 14.14 Hz to 13.69 Hz, and improving voicing decision error (VDE) by 38.2%. Moreover, extensive ablation experiments validate the contribution of each component of EGGCodec.</details>
@@ -226,7 +236,7 @@ Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/EGGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[11] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TSP_EGGNet_Submission.pdf)
+[[12] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TSP_EGGNet_Submission.pdf)
 
 Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Jun Du, Zhenhua Lin, and Jiahong Yuan.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs. The electroglottograph (EGG) has been extensively adopted as a direct and reliable physiological signal for high-quality speech annotation. However, the most popular methods represented by *peakdet* nowadays frequently encounter issues of false alarms and missed detections. This paper proposes an innovative wide-context multi-branch convolutional model named EGGNet for the first time, which overcomes the bottlenecks of glottal closure instant (GCI) detection from EGG signals through three key technical breakthroughs. Firstly, EGGNet incorporates a temporal evaluation optimization, introducing a tolerance-window-based GCI detection algorithm that effectively mitigates distortion caused by the sparsity of temporal localization and controls the GCI event matching error within ±20 sampling points from tens of thousands of samples per second. Secondly, EGGNet proposes a greedy-based one-to-one matching strategy that eliminates the multi-to-one or one-to-multi evaluation bias common in traditional methods, thereby ensuring strict alignment between detection results and ground truth labels. Furthermore, EGGNet proposes a cascaded supervision architecture, which establishes a collaborative training mechanism between soft and hard labels, effectively balancing sensitivity and localization accuracy. Extensive experiments demonstrate that, after training on the PTDB-TUG dataset, EGGNet significantly outperforms *peakdet* and achieves F1 scores of 96.6%, 96.2%, and 90.3% on CSTR-FDA, KEELE, and MOCHA-TIMIT, respectively. Comprehensive ablation studies further confirm that EGG exhibits superior performance on high-noise corpora, and its soft-hard cascaded supervision improves the precision–recall balance metric by 6.5% compared with single-supervision schemes.</details>
@@ -237,7 +247,7 @@ Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ComMag 2025</div><img src='images/VR-ComMag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[12] Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission (Under Review)](https://arxiv.org/pdf/2508.09151)
+[[13] Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission (Under Review)](https://arxiv.org/pdf/2508.09151)
 
 Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Yiyuan Chen, Fengqian Guo, Xiaowei Qin, and Hancheng Lu,
 
@@ -248,7 +258,7 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/Jund-F0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[13] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
+[[14] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
 
 **<u>Yuang Chen</u><sup>†</sup>**, Rui Feng<sup>†</sup>, (Co-First Author), Yin-Long Liu, Yu Hu, Jiahong Yuan,
 
