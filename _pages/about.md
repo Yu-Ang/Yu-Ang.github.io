@@ -36,8 +36,8 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 
-
 # 🔥 News 
+- *2025.10*: &nbsp;🎉🎉 I've been awarded the 2025 National Scholarship for Doctoral Students, which is the highest-level national honor currently available to Chinese students in higher education institutions!
 - *2025.09*: &nbsp;🎉🎉 Our paper ``[Statistical QoS Provision in Business-Centric Networks](https://doi.org/10.1109/twc.2025.3616374)'' has been accepted by IEEE Transactions on Wireless Communications!
 - *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the [10th Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
