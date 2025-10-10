@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello! I am **<u>Yuang Chen</u>** (**<u>陳雨昂</u>**), a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
+Hello! I am **Yuang Chen** (**陳雨昂**), a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
@@ -37,7 +37,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </p>
 
 # 🔥 News 
-- *2025.10*: &nbsp;🎉🎉 I've been awarded the 2025 National Scholarship for Doctoral Students, which is the highest-level national honor currently available to Chinese students in higher education institutions!
+- *2025.10*: &nbsp;🎉🎉 I've been awarded the **2025 National Scholarship for Doctoral Students**, which is the highest-level national honor currently available to Chinese students in higher education institutions!
 - *2025.09*: &nbsp;🎉🎉 Our paper ``[Statistical QoS Provision in Business-Centric Networks](https://doi.org/10.1109/twc.2025.3616374)'' has been accepted by IEEE Transactions on Wireless Communications!
 - *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the [10th Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
 - *2025.07*: &nbsp;🎉🎉 Our paper ``DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
