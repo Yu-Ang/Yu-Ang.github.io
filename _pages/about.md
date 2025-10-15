@@ -97,6 +97,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - IEEE Transactions on Wireless Communications (TWC).
 - IEEE Transactions on Communications (TCOM).
 - IEEE Transactions on Mobile Computing (TMC).
+- - IEEE Transactions on Cloud Computing (TCC).
 - IEEE Transactions on Vehicular Technology (TVT).
 - IEEE Transactions on Network and Service Management (TNSM).
 - IEEE Transactions on Cognitive Communications and Networking (TCCN).
