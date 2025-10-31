@@ -37,7 +37,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </p>
 
 # 🔥 News 
-- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!
+- *2025.11*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!
 - *2025.10*: &nbsp;🎉🎉 Our paper "[Reconfigurable Intelligent Surfaces-Assisted Secure Wireless Communication in Wiretap Systems with Multiple Base Stations](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TVT_submit3.pdf)'' has been accepted by IEEE Transactions on Vehicular Technology!
 - *2025.10*: &nbsp;🎉🎉 I've been awarded the **2025 National Scholarship for Doctoral Students**, which is the highest-level national honor currently available to Chinese students in higher education institutions!
 - *2025.09*: &nbsp;🎉🎉 Our paper "[Statistical QoS Provision in Business-Centric Networks](https://doi.org/10.1109/twc.2025.3616374)'' has been accepted by IEEE Transactions on Wireless Communications!
