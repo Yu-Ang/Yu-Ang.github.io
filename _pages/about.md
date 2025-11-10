@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello! I am **Yuang Chen** (**陳雨昂**), a final-year Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
+Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
@@ -48,7 +48,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
 # 📖 Educations
-- *2023.09 - 2026.06 (Expected)*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
+- *2023.09 - Current*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
 - *2021.09 - 2023.06*, Master, University of Science and Technology of China (中国科学技术大学), China.
 - *2017.09 - 2021.06*, Bachelor, Hefei University of Technology (合肥工业大学), China. (*Outstanding Thesis Award and Outstanding Graduate Award*)
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
