@@ -48,7 +48,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
 # 📖 Educations
-- *2023.09 - Current*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
+- *2023.09 - 2027.06*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
 - *2021.09 - 2023.06*, Master, University of Science and Technology of China (中国科学技术大学), China.
 - *2017.09 - 2021.06*, Bachelor, Hefei University of Technology (合肥工业大学), China. (*Outstanding Thesis Award and Outstanding Graduate Award*)
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
