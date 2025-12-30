@@ -228,17 +228,17 @@ Chengdi Lu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author),
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL 2025</div><img src='images/EGGCodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2025</div><img src='images/EGGCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[11] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Under Major Revisions)](https://arxiv.org/abs/2508.08924)
+[[11] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918063451_560914_17826.pdf)
 
 Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> This letter introduces EGGCodec, a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction. We propose a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy. Unlike conventional Encodec models that extract F0 directly from features, EGGCodec leverages reconstructed EGG signals, which more closely correspond to F0. By removing the conventional GAN discriminator, we streamline EGGCodec's training process without compromising efficiency, incurring only negligible performance degradation. Trained on a widely used EGG-inclusive dataset, extensive evaluations demonstrate that EGGCodec outperforms state-of-the-art F0 extraction schemes, reducing mean absolute error (MAE) from 14.14 Hz to 13.69 Hz, and improving voicing decision error (VDE) by 38.2%. Moreover, extensive ablation experiments validate the contribution of each component of EGGCodec.</details>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP 2025</div><img src='images/EGGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TASLP 2025</div><img src='images/EGGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[12] EGGNet: Learning Temporal Boundaries of Glottal Cycles from EGG (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TSP_EGGNet_Submission.pdf)
