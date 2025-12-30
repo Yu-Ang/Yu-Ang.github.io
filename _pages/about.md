@@ -57,7 +57,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 # 💻 Work Experience
 - *2024.08 - Now*, Full-time Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
-- *2023.08 - 2023.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
+- *2025.06 - 2025.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
 - *2022.08 - 2023.07*, Technical Research Engineer (Intern), H3C Technology Co., Ltd., Hefei Network Research Department, Next-Generation Wireless Network Technology Research.
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
