@@ -92,9 +92,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 <h2 style="color: darkred;"> Conference Reviewer</h2>
 
-- 2023, 2024 IEEE Global Communications Conference (GLOBECOM).
-- 2023, 2024 IEEE International Conference on Wireless Communications and Signal Processing (WCSP).
-- 2024 IEEE International Conference on Communications (ICC).
+- 2023, 2024, 2025 IEEE Global Communications Conference (GLOBECOM).
+- 2023, 2024, 2025 IEEE International Conference on Wireless Communications and Signal Processing (WCSP).
+- 2024, 2026 IEEE International Conference on Communications (ICC).
 - 2024 IEEE International Conference on Computer Communications (INFOCOM)
 
 <h2 style="color: darkred;"> Journal Reviewer</h2>
