@@ -222,7 +222,7 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2025</div><img src='images/FAFC-TNSM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[10] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/tnsm-FAFC-cya.pdf)
+[[10] Proactively Prevent Data Center Buffer Overflow with Minimized Impact: A Fast and Accurate Flow Control Method (Under Major Revisions)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/tnsm-FAFC-cya.pdf)
 
 Chengdi Lu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Fangyu Zhang, and Hancheng Lu.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> In data centers, large-scale many-to-one traffic can rapidly exhaust switch buffers and trigger priority-based flow control (PFC) pause, resulting in increased flow completion time (FCT) for uncongested flows. To address this issue, we propose an innovative switch-side fast and accurate flow control (FAFC) scheme. By differentially allocating pause time for each port during congestion, FAFC can minimize the performance loss for uncongested flows. Furthermore, FAFC is also coupled with an effective queue length prediction algorithm to enable proactive and reliable estimation of the congestion level. Extensive system-level simulations demonstrate that FAFC can flexibly allocate pause times across congested ports, which are not only compatible with existing PFC but also do not require per-flow states. We implemented FAFC in P4 programmable switches, showing it as lightweight flow control method that is portable for implementation in hardware. Remarkably, our large-scale simulations illustrate that compared to traditional PFC, FAFC improves the average FCT slowdown and 95% FCT slowdown by 10.6% and 23.3%, respectively, under Hadoop workload when performing HPCC congestion control.</details>
@@ -232,7 +232,7 @@ Chengdi Lu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author),
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2025</div><img src='images/EGGCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[11] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918063451_560914_17826.pdf)
+[[11] EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction (Accepted)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918063451_560914_17826.pdf)
 
 Feng, Rui<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Yu Hu, Jun Du, and Jiahong Yuan.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> This letter introduces EGGCodec, a robust neural Encodec framework engineered for electroglottography (EGG) signal reconstruction and F0 extraction. We propose a multi-scale frequency-domain loss function to capture the nuanced relationship between original and reconstructed EGG signals, complemented by a time-domain correlation loss to improve generalization and accuracy. Unlike conventional Encodec models that extract F0 directly from features, EGGCodec leverages reconstructed EGG signals, which more closely correspond to F0. By removing the conventional GAN discriminator, we streamline EGGCodec's training process without compromising efficiency, incurring only negligible performance degradation. Trained on a widely used EGG-inclusive dataset, extensive evaluations demonstrate that EGGCodec outperforms state-of-the-art F0 extraction schemes, reducing mean absolute error (MAE) from 14.14 Hz to 13.69 Hz, and improving voicing decision error (VDE) by 38.2%. Moreover, extensive ablation experiments validate the contribution of each component of EGGCodec.</details>
@@ -264,7 +264,7 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/Jund-F0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[14] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
+[[14] JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation (Accepted)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/20250918035255_685897_15572.pdf)
 
 **<u>Yuang Chen</u><sup>†</sup>**, Rui Feng<sup>†</sup>, (Co-First Author), Yin-Long Liu, Yu Hu, Jiahong Yuan,
 
