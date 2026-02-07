@@ -211,7 +211,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TWC 2025</div><img src='images/ChangWu-TWC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[9] Statistical QoS Provision in Business-Centric Networks (Accepted)](https://arxiv.org/abs/2408.15609)
+[[9] Statistical QoS Provision in Business-Centric Networks (Accepted)](https://ieeexplore.ieee.org/document/11197211)
 
 Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), and Hancheng Lu.
 <details><summary>Click to view details</summary><strong>Abstract:</strong> More refined resource management and Quality of Service (QoS) provisioning are the critical goals of wireless communication technologies. In this paper, we propose a novel Business-Centric Network (BCN) aimed at enabling scalable QoS provisioning, based on a cross-layer framework that captures the relationship between application, transport parameters, and channels. We investigate both continuous flow and event-driven flow models, presenting key QoS metrics such as throughput, delay, and reliability. By jointly considering power and bandwidth allocation, transmission parameters, and AP network topology across layers, we optimize weighted resource efficiency with statistical QoS provisioning. To address the coupling among parameters, we propose a novel deep reinforcement learning (DRL) framework, which is Collaborative Optimization among Heterogeneous Actors with Experience Sharing (COHA-ES). Power and sub-channel (SC) Actors representing multiple APs are jointly optimized under the unified guidance of a common critic. Additionally, we introduce a novel multithreaded experience-sharing mechanism to accelerate training and enhance rewards. Extensive comparative experiments validate the effectiveness of our DRL framework in terms of convergence and efficiency. Moreover, comparative analyses demonstrate the comprehensive advantages of the BCN structure in enhancing both spectral and energy efficiency.</details>
@@ -286,7 +286,7 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2026</div><img src='images/SRH_IPV6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[16] Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRv6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/SRH_IPV6.pdf)
+[[16] Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRv6 Networks With Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/11303321)
 
 Shuyi Liu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Zhengze Li, Fangyu Zhang, Hancheng Lu, Xiaobo Guo, and Lizhe Liu,
 
