@@ -272,6 +272,17 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2026</div><img src='images/NMBM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[15] NOMA-Assisted Multi-BS MEC Networks for Delay-Sensitive and Computation-Intensive IoT Applications (Under Review)](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/NMBM.pdf)
+
+**<u>Yuang Chen</u><sup>†</sup>**, Fengqian Guo, Chang Wu, Mingyu Peng, Hancheng Lu, Chang Wen Chen,
+
+<details><summary>Click to view details</summary><strong>Abstract:</strong> The burgeoning and ubiquitous deployment of the Internet of Things (IoT) landscape struggles with ultra-low latency demands for computation-intensive tasks in massive connectivity scenarios. In this paper, we propose an innovative uplink non-orthogonal multiple access (NOMA)-assisted multi-base station (BS) mobile edge computing (BS-MEC) network tailored for massive IoT connectivity. To fulfill the quality-of-service (QoS) requirements of delay-sensitive and computation-intensive IoT applications, we formulate a joint task offloading, user grouping, and power allocation optimization problem with the overarching objective of minimizing the system's total delay, aiming to address issues of unbalanced subchannel access, inter-group interference, computational load disparities, and device heterogeneity. To effectively tackle this problem, we first reformulate task offloading and user grouping into a non-cooperative game model and propose an exact potential game-based joint decision-making (EPG-JDM) algorithm, which dynamically selects optimal task offloading and subchannel access decisions for each IoT device based on its channel conditions, thereby achieving the Nash Equilibrium. Then, we propose a majorization-minimization (MM)-based power allocation algorithm, which transforms the original subproblem into a tractable convex optimization paradigm. Extensive simulation experiments demonstrate that our proposed EPG-JDM algorithm significantly outperforms state-of-the-art decision-making algorithms and classic heuristic algorithms, yielding performance improvements of up to 19.3\% and 14.7\% in terms of total delay and power consumption, respectively.</details>
+</div>
+</div>
+
 <hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals</h2>
 
