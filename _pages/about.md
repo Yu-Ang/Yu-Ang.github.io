@@ -283,12 +283,23 @@ Chang Wu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSM 2026</div><img src='images/SRH_IPV6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[16] Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRv6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/SRH_IPV6.pdf)
+
+Shuyi Liu<sup>†</sup>, **<u>Yuang Chen</u><sup>†</sup>** (Co-First Author), Zhengze Li, Fangyu Zhang, Hancheng Lu, Xiaobo Guo, and Lizhe Liu,
+
+<details><summary>Click to view details</summary><strong>Abstract:</strong> Segment Routing over IPv6 (SRv6) gives operators explicit path control and alleviates network congestion, making it a compelling technique for traffic engineering (TE). Yet two practical hurdles slow adoption. First, a one-shot upgrade of every traditional device is prohibitively expensive, so operators must prioritize which devices to upgrade. Second, the Segment Routing Header (SRH) increases packet size; if TE algorithms ignore this overhead, they will underestimate link load and may cause congestion in practice. We address both challenges with DRL-TE, an algorithm that couples deep reinforcement learning (DRL) with a lightweight local search (LS) step to minimize the network’s maximum link utilization (MLU). DRL-TE first identifies the smallest set of critical devices whose upgrade yields the largest drop in MLU, enabling hybrid IP/SRv6 networks to approach optimal performance with minimal investment. It then computes SRH-aware routes, and the DRL agent, augmented by a fast LS refinement, rapidly reduces MLU even under traffic variation. Experiments on an 11-node hardware testbed and three larger simulated topologies show that upgrading about 30% of devices allows DRL-TE to match fully upgraded networks and reduce MLU by up to 34% compared with existing algorithms. DRL-TE also maintains high performance under link failures and traffic variations, offering a cost-effective and robust path toward incremental SRv6 deployment.</details>
+</div>
+</div>
+
+
 <hr style="border: 2px dashed #B22222;" />
 <h2 style="color: darkred;"> 👨‍👩‍👧‍👦 Collaborated Journals</h2>
 
-- [10] Fangyu Zhang, **<u>Yuang Chen</u>**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
-- [9] Fangyu Zhang, **<u>Yuang Chen</u>**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
-- [8] Shuyi Liu, **<u>Yuang Chen</u>**, and Hangcheng Lu, "*SRH-Aware Traffic Engineering in Hybrid IP/SRv6 Networks with Deep Reinforcement Learning*," in IEEE Transactions on Network and Service Management, 2024 (**Under Major Revisions**) [[pdf]](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf)
+- [9] Fangyu Zhang, **<u>Yuang Chen</u>**, Hancheng Lu, and Yongsheng Huang, "*Network-Aware Reliability Modeling and Optimization for Microservice Placement*," in IEEE Transactions on Network and Service Management, vol. 22, no. 4, pp. 3705-3720, Aug. 2025, doi: [10.1109/TNSM.2025.3562913](https://doi.org/10.1109/TNSM.2025.3562913). 
+- [8] Fangyu Zhang, **<u>Yuang Chen</u>**, Hancheng Lu, and Chengdi Lu, "*VNF Migration with Fast Defragmentation: A GAT-Based Deep Learning Method*," in IEEE Transactions on Network and Service Management, 2024, doi: [10.48550/arXiv.2410.10086](https://arxiv.org/abs/2410.10086) (**Under Major Revisions**).
 - [7] Langtian Qin, Hancheng Lu, **<u>Yuang Chen</u>**, Baolin Chong, and Fengqian Guo, "*Joint Transmission and Resource Optimization in NOMA-Assisted IoVT With Mobile Edge Computing*," in IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 9984-9999, July 2024, doi: [10.1109/TVT.2024.3364358](https://doi.org/10.1109/TVT.2024.3364358).
 - [6] Chang Wu, Hancheng Lu, **<u>Yuang Chen</u>**, and Langtian Qin, "*Cross-Layer Optimization for Statistical QoS Provision in C-RAN with Finite-Length Coding*," in IEEE Transactions on Communications, vol. 72, no. 6, pp. 3393-3407, June 2024, doi: [10.1109/TCOMM.2024.3370817](https://doi.org/10.1109/TCOMM.2024.3370817).
 - [5] Langtian Qin, Hancheng Lu, **<u>Yuang Chen</u>**, Zhuojia Gu, Dan Zhao, and Feng Wu, "*Energy-Efficient Blockchain-Enabled User-Centric Mobile Edge Computing*," in IEEE Transactions on Cognitive Communications and Networking, vol. 10, no. 4, pp. 1452-1466, Aug. 2024, doi: [10.1109/TCCN.2024.3373624](https://doi.org/10.1109/TCCN.2024.3373624).
