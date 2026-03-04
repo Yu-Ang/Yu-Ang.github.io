@@ -36,7 +36,7 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 # 🔥 News 
-- *2026.03*：&nbsp;🎉🎉 I was awarded the titles of Outstanding Doctoral Graduate of both the University of Science and Technology of China (USTC) and Anhui Province!
+- *2026.03*：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!
 - *2026.01*: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!
 - *2026.01*: &nbsp;🎉🎉 We have **three** papers **<u>"JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation''</u>**, **<u>"EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction''</u>**, and **<u>"Cross-Lingual Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning''</u>** accepted by ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉 Our research project "Multimodal Vocal Dynamics Acquisition and Analysis System (多模态发声动力学采集与分析系统, 100K RMB)'' has received funding from USTC's Eagle Fund (中科大雏鹰基金)!
