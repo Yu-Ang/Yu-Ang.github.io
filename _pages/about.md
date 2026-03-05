@@ -65,6 +65,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
 # 🎖 Honors and Awards
+- *2026.03* Outstanding Doctoral Graduate of Anhui Province (安徽省优秀博士毕业生)
+- *2026.03* Outstanding Doctoral Graduate of USTC (中科大优秀博士毕业生)
+- *2026.01* 2026 IETF Outstanding Young Talent Program (IETF 菁才计划)
 - *2025.10* National Scholarship for Doctoral Students (博士研究生国家奖学金)
 - *2025.01* Full-Funded Scholarship for Outstanding Doctoral Student Studying Abroad Program (科大优秀博士生出国留学奖学金), Graduate School of USTC.
 - *2024.12* Global Digital Technology Scholarship (环球数码科技奖学金), Dept. EEIS, USTC.
@@ -72,7 +75,8 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2023.09* First-Class Academic Scholarship for Doctoral Students (博士研究生一等学业奖学金), USTC.
 - *2022.09* First-Class Academic Scholarship for Master Students (硕士研究生一等学业奖学金), USTC.
 - *2021.09* First-Class Academic Scholarship for Master Students (硕士研究生一等学业奖学金), USTC.
-- *2021.06* Outstanding Undergraduate Award of Anhui Province (安徽省优秀毕业生), Outstanding Undergraduate Award of HFUT (工大优秀毕业生).
+- *2021.06* Outstanding Undergraduate Award of Anhui Province (安徽省优秀本科毕业生)
+- *2021.06* Outstanding Undergraduate Award of HFUT (工大优秀本科毕业生).
 - *2020.09* Innovation Technology Star, HFUT (科技创新之星), First-Class Academic Scholarship of HFUT.
 - *2019.09* Undergraduate National Scholarship (本科国家奖学金).
 - *2019.08* Meritorious Winner of The Interdisciplinary Contest in Modeling (全球跨学科数学建模竞赛).
