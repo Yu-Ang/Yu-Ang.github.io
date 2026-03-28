@@ -92,7 +92,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 # 🎈 Services
 
-<h2 style="color: darkred;"> Technical Program Committee Members</h2>
+<h2 style="color: darkred;"> Technical Program Committee (TPC)</h2>
 
 - [2026 VTC-Spring - Nice - Workshops and Recent Results](https://vtc2026s-rr-wks.trackchair.com/track/2515)
 
