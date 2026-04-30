@@ -36,7 +36,7 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 # 🔥 News 
-- *2026.04*：&nbsp;🎉🎉 I was awarded the Dean's Award of the Chinese Academy of Sciences (CAS), which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
+- *2026.04*：&nbsp;🎉🎉 I was awarded the **<u>"Dean's Award of the Chinese Academy of Sciences (CAS)</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
 - *2026.04*：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
 - *2026.03*：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!
 - *2026.01*: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!
