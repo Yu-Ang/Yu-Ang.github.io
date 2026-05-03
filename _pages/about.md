@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program.
+Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
+
+📊 My Google Scholar profile shows **321 citations** and an **h-index of 11**.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
