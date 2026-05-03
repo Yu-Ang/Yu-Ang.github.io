@@ -46,17 +46,29 @@ I have also worked on speech signal processing technologies for smart healthcare
 <details>
 <summary><b>More News</b></summary>
 
-- *2025.12*: &nbsp;🎉🎉 Our paper "[Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRV6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf)'' has been accepted by IEEE Transactions on Network and Service Management!
-- *2025.12*: &nbsp;🎉🎉 Our paper "[Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/Beyond_Manual_Transcripts__Exploring_the_Potential_of_Automatic_Speech_Recognition_Errors_in_Improving_Alzheimer_s_Disease_Detection_%E5%8E%9F%E5%A7%8B%E6%8F%90%E4%BA%A4.pdf)'' has been accepted by Journal of Biomedical Informatics!
-- *2025.11*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!
-- *2025.10*: &nbsp;🎉🎉 Our paper "[Reconfigurable Intelligent Surfaces-Assisted Secure Wireless Communication in Wiretap Systems with Multiple Base Stations](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TVT_submit3.pdf)'' has been accepted by IEEE Transactions on Vehicular Technology!
-- *2025.10*: &nbsp;🎉🎉 I've been awarded the **2025 National Scholarship for Doctoral Students**, which is the highest-level national honor currently available to Chinese students in higher education institutions!
-- *2025.09*: &nbsp;🎉🎉 Our paper "[Statistical QoS Provision in Business-Centric Networks](https://doi.org/10.1109/twc.2025.3616374)'' has been accepted by IEEE Transactions on Wireless Communications!
-- *2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the [10th Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!
-- *2025.07*: &nbsp;🎉🎉 Our paper "DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!
-- *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!
-- *2025.06*: &nbsp;🎉🎉 Our paper "Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
-- *2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
+<ul>
+<li>*2025.12*: &nbsp;🎉🎉 Our paper "[Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRV6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf)'' has been accepted by IEEE Transactions on Network and Service Management!</li>
+
+<li>*2025.12*: &nbsp;🎉🎉 Our paper "[Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/Beyond_Manual_Transcripts__Exploring_the_Potential_of_Automatic_Speech_Recognition_Errors_in_Improving_Alzheimer_s_Disease_Detection_%E5%8E%9F%E5%A7%8B%E6%8F%90%E4%BA%A4.pdf)'' has been accepted by Journal of Biomedical Informatics!</li>
+
+<li>*2025.11*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!</li>
+
+<li>*2025.10*: &nbsp;🎉🎉 Our paper "[Reconfigurable Intelligent Surfaces-Assisted Secure Wireless Communication in Wiretap Systems with Multiple Base Stations](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TVT_submit3.pdf)'' has been accepted by IEEE Transactions on Vehicular Technology!</li>
+
+<li>*2025.10*: &nbsp;🎉🎉 I've been awarded the **2025 National Scholarship for Doctoral Students**, which is the highest-level national honor currently available to Chinese students in higher education institutions!</li>
+
+<li>*2025.09*: &nbsp;🎉🎉 Our paper "[Statistical QoS Provision in Business-Centric Networks](https://doi.org/10.1109/twc.2025.3616374)'' has been accepted by IEEE Transactions on Wireless Communications!</li>
+
+<li>*2025.08*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Cryptography and Cyberspace Security at Nankai University to participate in the [10th Nankai University International Talent Forum](https://mp.weixin.qq.com/s/u8gvCpoH-x79HdnX5rwSsQ?scene=1) (第十届南开大学国际人才论坛)!</li>
+
+<li>*2025.07*: &nbsp;🎉🎉 Our paper "DMSA: A decentralized microservice architecture for edge networks'' has been accepted by IEEE Transactions on Mobile Computing!</li>
+
+<li>*2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!</li>
+
+<li>*2025.06*: &nbsp;🎉🎉 Our paper "Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!</li>
+
+<li>*2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!</li>
+</ul>
 
 </details>
 
