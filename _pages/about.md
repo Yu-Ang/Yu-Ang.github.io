@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals/conferences and hold multiple invention patents.
+Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
@@ -36,12 +36,15 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 # 🔥 News 
-- *2026.04*：&nbsp;🎉🎉 I received the **<u>"Chinese Academy of Sciences (CAS) President‘s Award (Excellence Award)</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
+- *2026.04*：&nbsp;🎉🎉 I received the **<u>"Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
 - *2026.04*：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
 - *2026.03*：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!
 - *2026.01*: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!
 - *2026.01*: &nbsp;🎉🎉 We have **three** papers **<u>"JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation''</u>**, **<u>"EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction''</u>**, and **<u>"Cross-Lingual Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning''</u>** accepted by ICASSP 2026!
 - *2025.12*: &nbsp;🎉🎉 Our research project "Multimodal Vocal Dynamics Acquisition and Analysis System (多模态发声动力学采集与分析系统, 100K RMB)'' has received funding from USTC's Eagle Fund (中科大雏鹰基金)!
+<details>
+<summary><b>More News</b></summary>
+<br>
 - *2025.12*: &nbsp;🎉🎉 Our paper "[Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRV6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf)'' has been accepted by IEEE Transactions on Network and Service Management!
 - *2025.12*: &nbsp;🎉🎉 Our paper "[Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/Beyond_Manual_Transcripts__Exploring_the_Potential_of_Automatic_Speech_Recognition_Errors_in_Improving_Alzheimer_s_Disease_Detection_%E5%8E%9F%E5%A7%8B%E6%8F%90%E4%BA%A4.pdf)'' has been accepted by Journal of Biomedical Informatics!
 - *2025.11*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!
@@ -53,6 +56,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2025.07*: &nbsp;🎉🎉 I have been invited to attend the [10th Dalian University of Technology International Young Scholars Exchange Conference](https://ice.dlut.edu.cn/info/1021/5886.htm) (第十届大连理工大学国际青年学者交流会) and the [2025 Dalian Global Talent Innovation and Development Exchange Conference](https://news.dlut.edu.cn/info/1022/122594.htm) (2025年大连全球人才创新发展交流会)!
 - *2025.06*: &nbsp;🎉🎉 Our paper "Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!
 - *2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
+</details>
 
 # 📖 Educations
 - *2023.09 - Current*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
@@ -67,7 +71,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
 # 🎖 Honors and Awards
-- *2026.04* Chinese Academy of Sciences (CAS) President‘s Award (中国科学院院长奖)
+- *2026.04* Chinese Academy of Sciences (CAS) President's Award (中国科学院院长奖)
 - *2026.03* Outstanding Doctoral Graduate of Anhui Province (安徽省优秀博士毕业生)
 - *2026.03* Outstanding Doctoral Graduate of USTC (中科大优秀博士毕业生)
 - *2026.01* 2026 IETF Outstanding Young Talent Program (IETF 菁才计划)
