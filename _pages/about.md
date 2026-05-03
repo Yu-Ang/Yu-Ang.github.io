@@ -46,8 +46,6 @@ I have also worked on speech signal processing technologies for smart healthcare
 <details>
 <summary><b>More News</b></summary>
 
-<br>
-
 - *2025.12*: &nbsp;🎉🎉 Our paper "[Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRV6 Networks With Deep Reinforcement Learning](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf)'' has been accepted by IEEE Transactions on Network and Service Management!
 - *2025.12*: &nbsp;🎉🎉 Our paper "[Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection](https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/Beyond_Manual_Transcripts__Exploring_the_Potential_of_Automatic_Speech_Recognition_Errors_in_Improving_Alzheimer_s_Disease_Detection_%E5%8E%9F%E5%A7%8B%E6%8F%90%E4%BA%A4.pdf)'' has been accepted by Journal of Biomedical Informatics!
 - *2025.11*: &nbsp;🎉🎉 I have been invited by the School of Computer Science and the School of Electronic Information at Northwestern Polytechnical University to participate in the 14th Forum Aoiang Young Scholars Forum (第十四届西北工业大学翱翔青年学者论坛)!
@@ -61,7 +59,6 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!
 
 </details>
-
 # 📖 Educations
 - *2023.09 - Current*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
 - *2021.09 - 2023.06*, Master, University of Science and Technology of China (中国科学技术大学), China.
