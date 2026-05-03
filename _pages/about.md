@@ -67,9 +67,9 @@ I have also worked on speech signal processing technologies for smart healthcare
 
 <li>2025.07: &nbsp;🎉🎉 I have been invited to attend the <a href="https://ice.dlut.edu.cn/info/1021/5886.htm"><strong>10th Dalian University of Technology International Young Scholars Exchange Conference</strong></a> (第十届大连理工大学国际青年学者交流会) and the <a href="https://news.dlut.edu.cn/info/1022/122594.htm">2025 Dalian Global Talent Innovation and Development Exchange Conference</a> (2025年大连全球人才创新发展交流会)!</li>
 
-<li>*2025.06*: &nbsp;🎉🎉 Our paper "Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!</li>
+<li>2025.06: &nbsp;🎉🎉 Our paper "Enhancing xURLLC with RSMA-assisted massive-MIMO networks: Performance analysis and optimization'' has been accepted by IEEE Transactions on Communications!</li>
 
-<li>*2025.05*: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!</li>
+<li>2025.05: &nbsp;🎉🎉 Our paper "Performance optimization in RSMA-assisted uplink xURLLC IIoT networks with statistical QoS provisioning'' has been accepted by IEEE Transactions on Wireless Communications!</li>
 </ul>
 
 </details>
