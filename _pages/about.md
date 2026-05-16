@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 Hello! I am **Yuang Chen** (**陳雨昂**), a Ph.D. Candidate in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), advised by [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am also currently working as a Full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
 
-📊 My Google Scholar profile shows <b><span style="color:#2563eb;">328 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
+📊 My Google Scholar profile shows <b><span style="color:#2563eb;">336 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
 
 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
@@ -38,7 +38,8 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 # 🔥 News 
-- *2026.04*：&nbsp;🎉🎉 I received the **<u>"Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
+- *2026.04*：&nbsp;🎉🎉 **<u>I successfully defended my Ph.D. dissertation.</u>**. I am deeply grateful to my supervisors, committee members, collaborators, family, and friends for their invaluable guidance and support throughout my doctoral journey.
+- *2026.04*：&nbsp;🎉🎉 I received the **<u>Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
 - *2026.04*：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
 - *2026.03*：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!
 - *2026.01*: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!
