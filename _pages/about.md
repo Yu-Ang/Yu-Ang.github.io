@@ -79,7 +79,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 </details>
 
 # 📖 Educations
-- *2023.09 - Current*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
+- *2023.09 - 2026.06*, Ph.D., University of Science and Technology of China (中国科学技术大学), China. 
 - *2021.09 - 2023.06*, Master, University of Science and Technology of China (中国科学技术大学), China.
 - *2017.09 - 2021.06*, Bachelor, Hefei University of Technology (合肥工业大学), China. (*Outstanding Thesis Award and Outstanding Graduate Award*)
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
@@ -91,6 +91,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
 # 🎖 Honors and Awards
+- *2026.06* Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)
 - *2026.04* Chinese Academy of Sciences (CAS) President's Award (中国科学院院长奖)
 - *2026.03* Outstanding Doctoral Graduate of Anhui Province (安徽省优秀博士毕业生)
 - *2026.03* Outstanding Doctoral Graduate of USTC (中科大优秀博士毕业生)
