@@ -38,6 +38,7 @@ I have also worked on speech signal processing technologies for smart healthcare
     🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
 </p>
 # 🔥 News 
+- *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)''</u>**！
 - *2026.06*：&nbsp;🎉🎉 Our paper **<u>"CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection''</u>** has been accepted by Interspeech 2026!
 - *2026.06*：&nbsp;🎉🎉 Our paper **<u>"EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography''</u>** has been accepted by IEEE Transactions on Audio, Speech and Language Processing!
 - *2026.06*：&nbsp;🎉🎉 Our paper **<u>"Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
