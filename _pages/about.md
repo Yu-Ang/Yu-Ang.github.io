@@ -33,9 +33,8 @@ I have also worked on speech signal processing technologies for smart healthcare
 - ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
 - ***Deep Learning-based Quantitative Assessment for Language Impairments.***
 
-
 <p style="color: blue; font-weight: bold; font-style: italic;">
-    🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. If you share the same vision, please feel free to contact me via email at 📧 yuangchen21@mail.ustc.edu.cn!
+    🤝 I am extremely eager to find like-minded academic collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. Please feel free to contact me via e-mail at 📧 yuangchen21@mail.ustc.edu.cn if you are interested :)
 </p>
 # 🔥 News 
 - *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)''</u>**！
