@@ -1,4 +1,4 @@
----
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ba95f149-0f9d-48d1-add3-994730f5dff6" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -22,12 +22,12 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 
 📊 My Google Scholar profile shows <b><span style="color:#2563eb;">380 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
 
-My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
+🔬 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
 - ***Environment-Aware Robust Mobile Video Transmission.***
 - ***NGMA (e.g., RSMA and NOMA) based Internet-of-Video Things (IoVT).***
 
-I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
+🔬 I have also worked on speech signal processing technologies for smart healthcare, aiming to combine cutting-edge deep learning techniques with speech and linguistic signal processing, including:
 - ***Multimodal Large Language Model (MLLM)-Based Cross-Lingual Alzheimer's Disease Detection***
 - ***Speech Signal-based Diagnosis and Screening for Facial Paralysis.***
 - ***Construction of Speech Physiological Signal Resources (e.g., F0, EGG, EEG, Nasality).***
