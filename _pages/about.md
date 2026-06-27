@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), under the supervision of [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I am currently working as a full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), working with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
+Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), under the supervision of [Prof. Hancheng Lu](http://staff.ustc.edu.cn/~hclu/). I worked as a full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) from July 2024 to June 2026, where I collaborated with [Prof. Chang Wen Chen](https://chenlab.comp.polyu.edu.hk/). I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
 
 📊 My Google Scholar profile shows <b><span style="color:#2563eb;">380 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
 
@@ -86,7 +86,7 @@ I have also worked on speech signal processing technologies for smart healthcare
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
 
 # 💻 Work Experience
-- *2024.08 - Now*, Full-time Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
+- *2024.08 - 2026.06*, Full-time Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
 - *2025.06 - 2025.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
 - *2022.08 - 2023.07*, Technical Research Engineer (Intern), H3C Technology Co., Ltd., Hefei Network Research Department, Next-Generation Wireless Network Technology Research.
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
