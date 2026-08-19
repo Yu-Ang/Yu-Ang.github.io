@@ -37,6 +37,7 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
     🤝 I am extremely eager to find like-minded collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. Please feel free to contact me via e-mail at 📧 yuangchen21@mail.ustc.edu.cn if you are interested :)
 </p>
 # 🔥 News 
+- *2026.08*：&nbsp;🎉🎉 Our paper **<u>"FAFC: Fast and Accurate Flow Control in Data Center Networks''</u>** has been accepted by IEEE Transactions on Network and Service Management!
 - *2026.07*：&nbsp;🎉🎉 Congratulations! I am awarded a **<u>Digital Futures Global Talented Young Researchers Program</u>** (<b><span style="color:#2563eb;">2.4 million</span></b>) to support my research on **<u>Generative Video Communication Systems</u>**!
 - *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)''</u>**！
 - *2026.06*：&nbsp;🎉🎉 Our paper **<u>"CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection''</u>** has been accepted by Interspeech 2026!
