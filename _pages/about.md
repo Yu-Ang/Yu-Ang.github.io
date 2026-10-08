@@ -87,7 +87,7 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
 
 # 💻 Work Experience
-- *2024.08 - 2025.11*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
+- *2024.08 - 2026.09*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
 - *2025.06 - 2025.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
 - *2022.08 - 2023.07*, Technical Research Engineer (Intern), H3C Technology Co., Ltd., Hefei Network Research Department, Next-Generation Wireless Network Technology Research.
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
