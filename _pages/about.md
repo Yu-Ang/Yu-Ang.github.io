@@ -45,16 +45,22 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 - *2026.06*：&nbsp;🎉🎉 Our paper **<u>"Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
 - *2026.05*：&nbsp;🎉🎉 **<u>I successfully defended my Ph.D. dissertation.</u>** I am deeply grateful to my supervisors, committee members, collaborators, family, and friends for their invaluable guidance and support throughout my doctoral journey.
 - *2026.04*：&nbsp;🎉🎉 I received the **<u>Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
-- *2026.04*：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!
-- *2026.03*：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!
-- *2026.01*: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!
-- *2026.01*: &nbsp;🎉🎉 We have **three** papers **<u>"JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation''</u>**, **<u>"EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction''</u>**, and **<u>"Cross-Lingual Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning''</u>** accepted by ICASSP 2026!
-- *2025.12*: &nbsp;🎉🎉 Our research project "Multimodal Vocal Dynamics Acquisition and Analysis System (多模态发声动力学采集与分析系统, 100K RMB)'' has received funding from USTC's Eagle Fund (中科大雏鹰基金)!
 
 <details>
 <summary><b style="color:#c00000;">More News</b></summary>
 
 <ul>
+<li>2026.04：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!</li>
+  
+<li>2026.03：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!</li>
+  
+<li>2026.01: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!</li>
+  
+<li>2026.01: &nbsp;🎉🎉 We have **three** papers **<u>"JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation''</u>**, **<u>"EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction''</u>**, and **<u>"Cross-Lingual 
+Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning''</u>** accepted by ICASSP 2026!</li>
+
+<li>2025.12: &nbsp;🎉🎉 Our research project "Multimodal Vocal Dynamics Acquisition and Analysis System (多模态发声动力学采集与分析系统, 100K RMB)'' has received funding from USTC's Eagle Fund (中科大雏鹰基金)!</li>
+  
 <li>2025.12: &nbsp;🎉🎉 Our paper "<a href="https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/TNSM-cya-SRV6.pdf">Segment Routing Header (SRH)-Aware Traffic Engineering in Hybrid IP/SRV6 Networks With Deep Reinforcement Learning</a>'' has been accepted by IEEE Transactions on Network and Service Management!</li>
 
 <li>2025.12: &nbsp;🎉🎉 Our paper "<a href="https://raw.githubusercontent.com/Yu-Ang/Yu-Ang.github.io/main/assets/Beyond_Manual_Transcripts__Exploring_the_Potential_of_Automatic_Speech_Recognition_Errors_in_Improving_Alzheimer_s_Disease_Detection_%E5%8E%9F%E5%A7%8B%E6%8F%90%E4%BA%A4.pdf">Beyond Manual Transcripts: Exploring the Potential of Automatic Speech Recognition Errors in Improving Alzheimer’s Disease Detection</a>'' has been accepted by Journal of Biomedical Informatics!</li>
