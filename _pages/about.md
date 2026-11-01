@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [Department of Electronic Engineering and Information Science (EEIS)](https://eeis.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/index.htm), under the supervision of [Prof. Hancheng Lu](https://if.ustc.edu.cn/member.php). I worked as a full-time Research Assistant (RA) in the [Department of Computing](https://www.polyu.edu.hk/comp/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), where I collaborated with [Prof. Chang Wen Chen](https://www.polyu.edu.hk/fcms/). I also have industry research and development experience at the Wireless Technology Laboratory, Huawei 2012 Laboratories, and New H3C Technologies Co., Ltd. (H3C), where I focused on next-generation wireless communication systems, network technologies, and practical deployment. I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
 
-📊 My Google Scholar profile shows <b><span style="color:#2563eb;">475 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
+📊 My Google Scholar profile shows <b><span style="color:#2563eb;">490 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
 
 🔬 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
@@ -50,14 +50,13 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 <summary><b style="color:#c00000;">More News</b></summary>
 
 <ul>
-<li>2026.04：&nbsp;🎉🎉 Our paper **<u>"Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks''</u>** has been accepted by Journal of Electronics and Information Technology (CCF T1)!</li>
-  
-<li>2026.03：&nbsp;🎉🎉 I was awarded the **Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)** and the **Outstanding Doctoral Graduate of Anhui Province**!</li>
-  
-<li>2026.01: &nbsp;🎉🎉 I was selected as one of the candidates of the "[2026 IETF Outstanding Young Talent Program](https://www.isc.org.cn/article/27267622264893440.html) (IETF 菁才计划)''!</li>
-  
-<li>2026.01: &nbsp;🎉🎉 We have **three** papers **<u>"JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation''</u>**, **<u>"EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction''</u>**, and **<u>"Cross-Lingual 
-Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning''</u>** accepted by ICASSP 2026!</li>
+<li>2026.04: &nbsp;🎉🎉 Our paper "Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks'' has been accepted by Journal of Electronics and Information Technology (CCF T1)!</li>
+
+<li>2026.03: &nbsp;🎉🎉 I was awarded the <strong>Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)</strong> and the <strong>Outstanding Doctoral Graduate of Anhui Province</strong>!</li>
+
+<li>2026.01: &nbsp;🎉🎉 I was selected as one of the candidates of the "<a href="https://www.isc.org.cn/article/27267622264893440.html">2026 IETF Outstanding Young Talent Program</a> (IETF 菁才计划)''!</li>
+
+<li>2026.01: &nbsp;🎉🎉 We have three papers "JUND-F0: A Novel Deep Learning Framework for Joint Unvoiced/Voiced Detection and F0 Estimation'', "EGGCodec: A Robust Neural Encodec Framework for EGG Reconstruction and F0 Extraction'', and "Cross-Lingual Alzheimer’s Disease Detection with Multimodal LLMs via Speech Cue-Augmented Prompting and Instruction Tuning'' accepted by ICASSP 2026!</li>
 
 <li>2025.12: &nbsp;🎉🎉 Our research project "Multimodal Vocal Dynamics Acquisition and Analysis System (多模态发声动力学采集与分析系统, 100K RMB)'' has received funding from USTC's Eagle Fund (中科大雏鹰基金)!</li>
   
