@@ -37,6 +37,8 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
     🤝 I am extremely eager to find like-minded collaborators. Additionally, I am currently actively seeking full-time positions in both academia and industry. Please feel free to contact me via e-mail at 📧 yuangchen21@mail.ustc.edu.cn if you are interested :)
 </p>
 # 🔥 News 
+- <strong style="color: red;">🔝 We welcome submissions to the Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/US42V06GII" style="color: red;">“From Bits to Decisions: Information Theory and Wireless Communications for Semantic, Goal-Oriented and Agentic Networks”</a> in <a href="https://www.mdpi.com/journal/electronics" style="color: red;"><em>Electronics</em></a> (MDPI)!</strong>
+- *2026.09*：&nbsp;🎉🎉 Our paper **<u>“[VNF Migration With Fast Defragmentation: A GAT-Based Deep Learning Method](https://ieeexplore.ieee.org/abstract/document/11755077)”</u>** has been accepted by IEEE Transactions on Cognitive Communications and Networking!
 - *2026.08*：&nbsp;🎉🎉 Our paper **<u>"FAFC: Fast and Accurate Flow Control in Data Center Networks''</u>** has been accepted by IEEE Transactions on Network and Service Management!
 - *2026.07*：&nbsp;🎉🎉 Congratulations! I am awarded a **<u>Digital Futures Global Talented Young Researchers Program</u>** (<b><span style="color:#2563eb;">2.4 million</span></b>) to support my research on **<u>Generative Video Communication Systems</u>**!
 - *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)''</u>**！
@@ -127,6 +129,9 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 - *2023.05*, ``Robust Wireless VR Video Transmission Based on Overlapped FoVs'', IEEE International Conference on Communications (ICC), Rome, Italy, International Conference Center (Oral).
 
 # 🎈 Services
+<h2 style="color: darkred;">Editorial Experience</h2>
+- Guest Editor, *Electronics* (MDPI), Special Issue “[From Bits to Decisions: Information Theory and Wireless Communications for Semantic, Goal-Oriented and Agentic Networks](https://www.mdpi.com/journal/electronics/special_issues/US42V06GII)”  
+  **2025 Impact Factor:** 2.9 | **2025 JCR Quartile:** Q2 (Engineering, Electrical & Electronic)
 
 <h2 style="color: darkred;"> Technical Program Committee (TPC)</h2>
 
