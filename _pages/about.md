@@ -137,7 +137,7 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 
 # 🎈 Services
 <h2 style="color: darkred;">Editorial Experience</h2>
-- Guest Editor, *Electronics* (MDPI), Special Issue “[From Bits to Decisions: Information Theory and Wireless Communications for Semantic, Goal-Oriented and Agentic Networks](https://www.mdpi.com/journal/electronics/special_issues/US42V06GII)” **2025 Impact Factor:** 2.9 | **2025 JCR Quartile:** Q2 (Engineering, Electrical & Electronic)
+- Guest Editor, *Electronics* (MDPI), Special Issue “[From Bits to Decisions: Information Theory and Wireless Communications for Semantic, Goal-Oriented and Agentic Networks](https://www.mdpi.com/journal/electronics/special_issues/US42V06GII)” <span style="white-space: nowrap;" title="JCR category: Engineering, Electrical &amp; Electronic">(<strong>2025 IF</strong> 2.9 · <strong>JCR</strong> Q2)</span>
 
 <h2 style="color: darkred;"> Technical Program Committee (TPC)</h2>
 
