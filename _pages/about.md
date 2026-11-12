@@ -38,13 +38,13 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 </p>
 # 🔥 News 
 - <strong style="color: red;">🔝 We welcome submissions to the Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/US42V06GII" style="color: red;">“From Bits to Decisions: Information Theory and Wireless Communications for Semantic, Goal-Oriented and Agentic Networks”</a> in <a href="https://www.mdpi.com/journal/electronics" style="color: red;"><em>Electronics</em></a> (MDPI)!</strong>
-- *2026.09*：&nbsp;🎉🎉 Our paper <strong><u>“<a href="https://ieeexplore.ieee.org/abstract/document/11755077">VNF Migration With Fast Defragmentation: A GAT-Based Deep Learning Method</a>”</u></strong> has been accepted by IEEE Transactions on Cognitive Communications and Networking!
-- *2026.08*：&nbsp;🎉🎉 Our paper <strong><u>“<a href="https://ieeexplore.ieee.org/abstract/document/11664203/">FAFC: Fast and Accurate Flow Control in Data Center Networks</a>”</u></strong> has been accepted by IEEE Transactions on Network and Service Management!
-- *2026.07*：&nbsp;🎉🎉 Congratulations! I am awarded a **<u>Digital Futures Global Talented Young Researchers Program</u>** (<b><span style="color:#2563eb;">2.4 million</span></b>) to support my research on **<u>Generative Video Communication Systems</u>**!
-- *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)''</u>**！
-- *2026.06*：&nbsp;🎉🎉 Our paper **<u>"CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection''</u>** has been accepted by Interspeech 2026!
-- *2026.06*：&nbsp;🎉🎉 Our paper **<u>"EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography''</u>** has been accepted by IEEE Transactions on Audio, Speech and Language Processing!
-- *2026.06*：&nbsp;🎉🎉 Our paper **<u>"Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission''</u>** has been accepted by the Journal of Electronics and Information Technology (CCF T1)!
+- *2026.09*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/abstract/document/11755077" style="text-decoration: underline;">VNF Migration With Fast Defragmentation: A GAT-Based Deep Learning Method</a>”</strong> has been accepted by IEEE Transactions on Cognitive Communications and Networking!
+- *2026.08*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/abstract/document/11664203/" style="text-decoration: underline;">FAFC: Fast and Accurate Flow Control in Data Center Networks</a>”</strong> has been accepted by IEEE Transactions on Network and Service Management!
+- *2026.07*：&nbsp;🎉🎉 Congratulations! I am awarded a <strong><a href="https://www.digitalfutures.kth.se/mobility/postdoc-fellowship/" style="text-decoration: underline;">Digital Futures Global Talented Young Researchers Program</a></strong> (<b><span style="color:#2563eb;">2.4 million</span></b>) to support my research on <strong><a href="https://www.digitalfutures.kth.se/digital-futures-awards-funding-to-12-new-international-postdoctoral-projects/" style="text-decoration: underline;">Generative Video Communication Systems</a></strong>!
+- *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"USTC Outstanding Doctoral Dissertation Award (中科大优秀博士学位论文奖)''</u>**！
+- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://www.isca-archive.org/interspeech_2026/liu26_interspeech.html" style="text-decoration: underline;">CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection</a>”</strong> has been accepted by Interspeech 2026!
+- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/document/11578297/" style="text-decoration: underline;">EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography</a>”</strong> has been accepted by IEEE Transactions on Audio, Speech and Language Processing!
+- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://jeit.ac.cn/en/article/doi/10.11999/JEIT260067" style="text-decoration: underline;">Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission</a>”</strong> has been accepted by Journal of Electronics and Information Technology (CCF T1)!
 - *2026.05*：&nbsp;🎉🎉 **<u>I successfully defended my Ph.D. dissertation.</u>** I am deeply grateful to my supervisors, committee members, collaborators, family, and friends for their invaluable guidance and support throughout my doctoral journey.
 - *2026.04*：&nbsp;🎉🎉 I received the **<u>Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
 
@@ -94,6 +94,7 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 - *2024.09 - 2017.06*, High School, Putian No.1 Middle School of Fujian (福建莆田第一中学), China.
 
 # 💻 Work Experience
+- *2026.10 - Now*, Digital Futures Postdoctoral Fellow, KTH Royal Institute of Technology, Sweden, Generative Video Communications.
 - *2026.06 - 2026.09*, AI Research Scientist, Huawei Technologies Co., Ltd., Shanghai, CN, Agentic AI in network autonomy.
 - *2024.08 - 2026.09*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
 - *2025.06 - 2025.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
@@ -101,7 +102,7 @@ Hello! I am **Yuang Chen** (**陳雨昂**). I received my Ph.D. degree in the [D
 - *2023.09 - 2024.01*, Graduate Course Teaching Assistant (TA), Dept. EEIS, USTC, Information Network Protocol Technology.
 
 # 🎖 Honors and Awards
-- *2026.06* Nomination Award for Outstanding Doctoral Dissertation of USTC (中科大优秀博士学位论文提名奖)
+- *2026.06* USTC Outstanding Doctoral Dissertation Award (中科大优秀博士学位论文奖)
 - *2026.04* Chinese Academy of Sciences (CAS) President's Award (中国科学院院长奖)
 - *2026.03* Outstanding Doctoral Graduate of Anhui Province (安徽省优秀博士毕业生)
 - *2026.03* Outstanding Doctoral Graduate of USTC (中科大优秀博士毕业生)
