@@ -45,14 +45,6 @@ I have published more than 30 papers in top international journals and conferenc
 - *2026.11*：&nbsp;🎉🎉 Our paper: Y. Chen, F. Guo, M. Peng, H. Lu, and C.W. Chen, "<strong><u>NOMA-Assisted Multi-BS MEC Networks for Delay-Sensitive and Computation-Intensive IoT Applications</u></strong>", has been accepted by **IEEE Transactions on Mobile Computing**!
 - *2026.10*：&nbsp;🎉🎉 I joined KTH Royal Institute of Technology, Sweden, as a <a href="https://www.digitalfutures.kth.se/digital-futures-awards-funding-to-12-new-international-postdoctoral-projects/" style="font-weight: bold; text-decoration: underline; border-bottom: none; box-shadow: none;">Digital Futures Postdoctoral Fellow</a>.
 - *2026.10*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/abstract/document/11755077" style="text-decoration: underline;">VNF Migration With Fast Defragmentation: A GAT-Based Deep Learning Method</a>”</strong> has been accepted by IEEE Transactions on Cognitive Communications and Networking!
-- *2026.08*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/abstract/document/11664203/" style="text-decoration: underline;">FAFC: Fast and Accurate Flow Control in Data Center Networks</a>”</strong> has been accepted by IEEE Transactions on Network and Service Management!
-- *2026.07*：&nbsp;🎉🎉 Congratulations! I am awarded a <strong><a href="https://www.digitalfutures.kth.se/mobility/postdoc-fellowship/" style="text-decoration: underline;">Digital Futures Global Talented Young Researchers Program</a></strong> (<b><span style="color:#2563eb;">2.4 million</span></b> · <strong>7.5% selection rate</strong>, 12 of 160 applications) to support my research on <strong><a href="https://www.digitalfutures.kth.se/digital-futures-awards-funding-to-12-new-international-postdoctoral-projects/" style="text-decoration: underline;">Generative Video Communication Systems</a></strong>!
-- *2026.06*：&nbsp;🎉🎉 I am honored to receive the **<u>"USTC Outstanding Doctoral Dissertation Award (中科大优秀博士学位论文奖)''</u>**！
-- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://www.isca-archive.org/interspeech_2026/liu26_interspeech.html" style="text-decoration: underline;">CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection</a>”</strong> has been accepted by Interspeech 2026!
-- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/document/11578297/" style="text-decoration: underline;">EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography</a>”</strong> has been accepted by IEEE Transactions on Audio, Speech and Language Processing!
-- *2026.06*：&nbsp;🎉🎉 Our paper <strong>“<a href="https://jeit.ac.cn/en/article/doi/10.11999/JEIT260067" style="text-decoration: underline;">Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission</a>”</strong> has been accepted by Journal of Electronics and Information Technology (CCF T1)!
-- *2026.05*：&nbsp;🎉🎉 **<u>I successfully defended my Ph.D. dissertation.</u>** I am deeply grateful to my supervisors, committee members, collaborators, family, and friends for their invaluable guidance and support throughout my doctoral journey.
-- *2026.04*：&nbsp;🎉🎉 I received the **<u>Chinese Academy of Sciences (CAS) President's Award</u>**, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.
 
 <details>
 <summary><b style="color:#c00000;">More News</b></summary>
@@ -74,9 +66,9 @@ I have published more than 30 papers in top international journals and conferenc
 
 <li>2026.04: &nbsp;🎉🎉 I received the <strong><u>Chinese Academy of Sciences (CAS) President's Award</u></strong>, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.</li>
 
-<li>2026.04: &nbsp;🎉🎉 Our paper "Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks'' has been accepted by Journal of Electronics and Information Technology (CCF T1)!</li>
+<li>2026.04: &nbsp;🎉🎉 Our paper "Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks'' has been accepted by the Journal of Electronics and Information Technology (CCF T1)!</li>
 
-<li>2026.03: &nbsp;🎉🎉 I was awarded the <strong>Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)</strong> and the <strong>Outstanding Doctoral Graduate of Anhui Province</strong>!</li>
+<li>2026.03: &nbsp;🎉🎉 I was awarded the <strong>Outstanding Doctoral Graduate of the University of Science and Technology of China (USTC)</strong> and the <strong>Outstanding Doctoral Graduate of Anhui Province</strong>!</li>
 
 <li>2026.01: &nbsp;🎉🎉 I was selected as one of the candidates of the "<a href="https://www.isc.org.cn/article/27267622264893440.html">2026 IETF Outstanding Young Talent Program</a> (IETF 菁才计划)''!</li>
 
