@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuang Chen"
   avatar           : "images/YuangChen-new.png"
-  bio              : "Ph.D. @ Univ. of Sci. and Technol. of China"
-  location         : "Hefei, China"
-  employer         :
+  bio              : "Digital Futures Postdoctoral Fellow"
+  location         : "Stockholm, Sweden"
+  employer         : "KTH Royal Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KYq-NRoAAAAJ&hl=en"
-  email            : "yuangchen21@mail.ustc.edu.cn"
+  email            : "yuangc@kth.se"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
