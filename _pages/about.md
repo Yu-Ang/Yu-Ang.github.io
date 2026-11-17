@@ -58,6 +58,22 @@ I have published more than 30 papers in top international journals and conferenc
 <summary><b style="color:#c00000;">More News</b></summary>
 
 <ul>
+<li>2026.08: &nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/abstract/document/11664203/" style="text-decoration: underline; border-bottom: none; box-shadow: none;">FAFC: Fast and Accurate Flow Control in Data Center Networks</a>”</strong> has been accepted by <strong>IEEE Transactions on Network and Service Management</strong>!</li>
+
+<li>2026.07: &nbsp;🎉🎉 Congratulations! I was awarded a <strong><a href="https://www.digitalfutures.kth.se/mobility/postdoc-fellowship/" style="text-decoration: underline; border-bottom: none; box-shadow: none;">Digital Futures Global Talented Young Researchers Program</a></strong> (<b><span style="color:#2563eb;">2.4 million</span></b> · <strong>7.5% selection rate</strong>, 12 of 160 applications) to support my research on <strong><a href="https://www.digitalfutures.kth.se/digital-futures-awards-funding-to-12-new-international-postdoctoral-projects/" style="text-decoration: underline; border-bottom: none; box-shadow: none;">Generative Video Communication Systems</a></strong>!</li>
+
+<li>2026.06: &nbsp;🎉🎉 I am honored to receive the <strong><u>USTC Outstanding Doctoral Dissertation Award (中科大优秀博士学位论文奖)</u></strong>!</li>
+
+<li>2026.06: &nbsp;🎉🎉 Our paper <strong>“<a href="https://www.isca-archive.org/interspeech_2026/liu26_interspeech.html" style="text-decoration: underline; border-bottom: none; box-shadow: none;">CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection</a>”</strong> has been accepted by <strong>Interspeech 2026</strong>!</li>
+
+<li>2026.06: &nbsp;🎉🎉 Our paper <strong>“<a href="https://ieeexplore.ieee.org/document/11578297/" style="text-decoration: underline; border-bottom: none; box-shadow: none;">EGGNet: Learning Temporal Boundaries of Glottal Cycles from Electroglottography</a>”</strong> has been accepted by <strong>IEEE Transactions on Audio, Speech and Language Processing</strong>!</li>
+
+<li>2026.06: &nbsp;🎉🎉 Our paper <strong>“<a href="https://jeit.ac.cn/en/article/doi/10.11999/JEIT260067" style="text-decoration: underline; border-bottom: none; box-shadow: none;">Physiological Signal-Driven QoE Optimization for Wireless Virtual Reality Transmission</a>”</strong> has been accepted by <strong>Journal of Electronics and Information Technology (CCF T1)</strong>!</li>
+
+<li>2026.05: &nbsp;🎉🎉 <strong><u>I successfully defended my Ph.D. dissertation.</u></strong> I am deeply grateful to my supervisors, committee members, collaborators, family, and friends for their invaluable guidance and support throughout my doctoral journey.</li>
+
+<li>2026.04: &nbsp;🎉🎉 I received the <strong><u>Chinese Academy of Sciences (CAS) President's Award</u></strong>, which is the highest honor for graduate students in all research institutions under the jurisdiction of the CAS.</li>
+
 <li>2026.04: &nbsp;🎉🎉 Our paper "Resource Allocation in Dual-RIS Cooperative Rate-Splitting Multiple Access Networks'' has been accepted by Journal of Electronics and Information Technology (CCF T1)!</li>
 
 <li>2026.03: &nbsp;🎉🎉 I was awarded the <strong>Outstanding Doctoral Graduate of University of Science and Technology of China (USTC)</strong> and the <strong>Outstanding Doctoral Graduate of Anhui Province</strong>!</li>
