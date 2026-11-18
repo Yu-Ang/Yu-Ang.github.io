@@ -112,7 +112,8 @@ I have published more than 30 papers in top international journals and conferenc
 <!--
 - *2026.10 - Now*, Digital Futures Postdoctoral Fellow, KTH Royal Institute of Technology, Sweden, Generative Video Communications.
 -->
-- *2026.06 - 2026.09*, AI Research Scientist, Huawei Technologies Co., Ltd., Shanghai, CN, Agentic AI in network autonomy.
+- *2026.10 - Present*, Digital Futures Research Fellow, School of EECS, KTH Royal Institute of Technology, Stockholm, Sweden, Generative Video Communications.
+- *2026.06 - 2026.09*, AI Research Scientist, Huawei Technologies Co., Ltd., Shanghai, CN, Agentic AI in Network Autonomy.
 - *2024.08 - 2026.09*, Research Assistant, Department of Computing, The Hong Kong Polytechnic University, Internet-of-Video-Things (IoVT).
 - *2025.06 - 2025.12*, Assistant Engineer (Intern), Huawei 2012 Lab, Central Research Institute, Multimedia Communication Technology Research.
 - *2022.08 - 2023.07*, Technical Research Engineer (Intern), H3C Technology Co., Ltd., Hefei Network Research Department, Next-Generation Wireless Network Technology Research.
