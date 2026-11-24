@@ -25,7 +25,7 @@ I received my Ph.D. degree in the Department of Electronic Engineering and Infor
 
 I have published more than 30 papers in top international journals and conferences and hold multiple invention patents. I am a recipient of the Chinese Academy of Sciences (CAS) President's Award in 2026, and have been selected for the 2026 IETF Young Talent Program. 
 
-📊 My Google Scholar profile shows <b><span style="color:#2563eb;">490 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
+📊 My Google Scholar profile shows <b><span style="color:#2563eb;">500 citations</span></b> and an <b><span style="color:#2563eb;">h-index of 12</span></b>.
 
 🔬 My research interests focus on intelligent communication and multimedia (e.g., Immersive Video, Metaverse, and Digital Twin) transmission for 5G/B5G/6G wireless communication and network systems, including:
 - ***Video Transmission Quality Optimization.***
